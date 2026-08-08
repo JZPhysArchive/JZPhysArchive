@@ -16,11 +16,11 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 ## 📖 Obsah
 
-### Bc. Fyzika
+### 🎓 Bc. Fyzika
 
 > *Zatím žádné kurzy — budou přidávány průběžně.*
 
-### Mgr. Teoretická fyzika
+### 🎓 Mgr. Teoretická fyzika
 
 > *Zatím žádné kurzy — budou přidávány průběžně.*
 
