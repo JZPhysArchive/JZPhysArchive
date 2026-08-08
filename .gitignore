@@ -1,2 +1,3 @@
-# Agent internal memory — never push to remote
+# Agent interní soubory — nikdy nepushovat na remote
 .agent_master_plan.md
+sanitize_pdfs.py
