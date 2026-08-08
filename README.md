@@ -2,32 +2,29 @@
 
 Osobní archiv poznámek, úkolů a materiálů z bakalářského a magisterského studia fyziky na MFF UK.
 
-> **Autor:** JZ  
-> **Poznámka:** Materiály jsou poskytovány "tak jak jsou" — mohou obsahovat chyby a nepřesnosti. Slouží primárně jako osobní studijní pomůcka.
+**Autor:** JZ
+
+---
+
+### ⚠️ Disclaimer
+
+Poskytnuté materiály slouží čistě jako osobní studijní pomůcka. Mohou obsahovat — a pravděpodobně obsahují — chyby a nepřesnosti. Valná většina poznámek a úkolů byla hodnocena plnými počty bodů, stačily na zisk zápočtů, a pokud to kurz nabízel, i na složení zkoušky bez písemky či bonbónu. I přesto je potřeba je brát se špetkou soli a ověřovat si fakta z primárních zdrojů.
+
+Materiály by měly být využity výhradně jako inspirace a studijní opora — **nikoliv k plagiátorství**, od kterého se plně distancuji.
 
 ---
 
 ## 📖 Obsah
 
-- [Bc. Fyzika](#-bc-fyzika)
-- [Mgr. Teoretická fyzika](#-mgr-teoretická-fyzika)
+### Bc. Fyzika
+
+> *Zatím žádné kurzy — budou přidávány průběžně.*
+
+### Mgr. Teoretická fyzika
+
+> *Zatím žádné kurzy — budou přidávány průběžně.*
 
 ---
 
-## 🎓 Bc. Fyzika
-
-> *Kurzy z bakalářského programu — budou přidávány průběžně.*
-
-Zatím žádné kurzy.
-
----
-
-## 🎓 Mgr. Teoretická fyzika
-
-> *Kurzy z magisterského programu — budou přidávány průběžně.*
-
-Zatím žádné kurzy.
-
----
-
-<p align="center"><sub>Spravováno agentem · Poslední aktualizace: srpen 2026</sub></p>
+<!-- COURSES:START — sekce kurzů se generuje automaticky pod touto čárou -->
+<!-- COURSES:END -->
