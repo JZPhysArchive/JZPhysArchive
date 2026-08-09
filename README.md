@@ -1,4 +1,4 @@
-﻿# 📚 JZPhysArchive
+# 📚 JZPhysArchive
 
 Osobní archiv poznámek, úkolů a materiálů z bakalářského a magisterského studia fyziky na MFF UK.
 
@@ -19,6 +19,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 ### 🎓 Bc. Fyzika
 
 - [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
+- [[NOFY142] Lineární algebra II](#nofy142-lineární-algebra-ii)
 
 ### 🎓 Mgr. Teoretická fyzika
 
@@ -60,6 +61,38 @@ Vypracované domácí úkoly, které byly převážně hodnoceny plnými počty 
 - [Domácí úkol 10](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2010.pdf)
 - [Domácí úkol 11](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2011.pdf)
 - [Domácí úkol 12](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2012.pdf)
+
+---
+
+## [NOFY142] Lineární algebra II
+
+**Letní semestr 2021/2022**  
+**Přednášející:** Mgr. Dalibor Šmíd, Ph.D.  
+**Cvičící:** RNDr. Jaroslav Hron, Ph.D.
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku. Obsahují vypsané věty, definice, lemmata, důsledky a důkazy ze skript k přednášce.
+
+- [Definice](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Poznamky/[NOFY142]%20Poznámky%20-%20Definice.pdf)
+- [Důkazy](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Poznamky/[NOFY142]%20Poznámky%20-%20Důkazy.pdf)
+- [Lemmata](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Poznamky/[NOFY142]%20Poznámky%20-%20Lemmata.pdf)
+- [Tvrzení](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Poznamky/[NOFY142]%20Poznámky%20-%20Tvrzení.pdf)
+- [Věty](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Poznamky/[NOFY142]%20Poznámky%20-%20Věty.pdf)
+
+### Domácí úkoly
+Vypracované domácí úkoly, které byly převážně hodnoceny plnými počty bodů. Upozorňuji, že přesto mohou obsahovat chyby či nepřesnosti.
+
+- [Domácí úkol 1](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%201.pdf)
+- [Domácí úkol 2](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%202.pdf)
+- [Domácí úkol 3](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%203.pdf)
+- [Domácí úkol 4](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%204.pdf)
+- [Domácí úkol 5](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%205.pdf)
+- [Domácí úkol 6](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%206.pdf)
+- [Domácí úkol 7](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%207.pdf)
+- [Domácí úkol 8](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%208.pdf)
+- [Domácí úkol 9](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%209.pdf)
+- [Domácí úkol 10](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%2010.pdf)
+- [Domácí úkol 11](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%2011.pdf)
 
 ---
 
