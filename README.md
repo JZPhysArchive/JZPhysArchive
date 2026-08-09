@@ -1,4 +1,4 @@
-# 📚 JZPhysArchive
+﻿# 📚 JZPhysArchive
 
 Osobní archiv poznámek, úkolů a materiálů z bakalářského a magisterského studia fyziky na MFF UK.
 
@@ -18,7 +18,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 ### 🎓 Bc. Fyzika
 
-> *Zatím žádné kurzy — budou přidávány průběžně.*
+- [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
 
 ### 🎓 Mgr. Teoretická fyzika
 
@@ -28,15 +28,43 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 <!-- COURSES:START -->
 
-## 🎓 Bc. Fyzika
+# 🎓 Bc. Fyzika
 
-> *Zatím žádné kurzy.*
+## [NOFY141] Lineární algebra I
+
+**Zimní semestr 2021/2022**  
+**Přednášející:** Mgr. Dalibor Šmíd, Ph.D.  
+**Cvičící:** RNDr. Jaroslav Hron, Ph.D.
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku. Obsahují vypsané věty, definice, lemmata, důsledky a důkazy ze skript k přednášce.
+
+- [Definice](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Poznamky/[NOFY141]%20Poznámky%20-%20Definice.pdf)
+- [Důkazy](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Poznamky/[NOFY141]%20Poznámky%20-%20Důkazy.pdf)
+- [Důsledky](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Poznamky/[NOFY141]%20Poznámky%20-%20Důsledky.pdf)
+- [Lemmata](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Poznamky/[NOFY141]%20Poznámky%20-%20Lemmata.pdf)
+- [Tvrzení](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Poznamky/[NOFY141]%20Poznámky%20-%20Tvrzení.pdf)
+
+### Domácí úkoly
+Vypracované domácí úkoly, které byly převážně hodnoceny plnými počty bodů. Upozorňuji, že přesto mohou obsahovat chyby či nepřesnosti.
+
+- [Domácí úkol 1](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%201.pdf)
+- [Domácí úkol 2](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%202.pdf)
+- [Domácí úkol 3](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%203.pdf)
+- [Domácí úkol 4](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%204.pdf)
+- [Domácí úkol 5](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%205.pdf)
+- [Domácí úkol 6](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%206.pdf)
+- [Domácí úkol 7](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%207.pdf)
+- [Domácí úkol 8](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%208.pdf)
+- [Domácí úkol 9](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%209.pdf)
+- [Domácí úkol 10](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2010.pdf)
+- [Domácí úkol 11](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2011.pdf)
+- [Domácí úkol 12](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2012.pdf)
 
 ---
 
-## 🎓 Mgr. Teoretická fyzika
+# 🎓 Mgr. Teoretická fyzika
 
-> *Zatím žádné kurzy.*
 
 <!-- COURSES:END -->
 
