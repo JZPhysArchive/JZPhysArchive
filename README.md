@@ -24,6 +24,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY151] Matematická analýza I](#nofy151-matematická-analýza-i)
 - [[NOFY152] Matematická analýza II](#nofy152-matematická-analýza-ii)
 - [[NOFY161] Matematika pro fyziky I](#nofy161-matematika-pro-fyziky-i)
+- [[NOFY162] Matematika pro fyziky II](#nofy162-matematika-pro-fyziky-ii)
 
 ### 🎓 Mgr. Teoretická fyzika
 
@@ -249,6 +250,58 @@ Domácí úkoly ve formě řešení několika úloh ze sad na dané cvičení. M
 - [Dobrovolný domácí úkol 1](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Ukoly/[NOFY161]%20Dobrovolný%20domácí%20úkol%201.pdf) - Fata morgana
 
 ---
+
+## [NOFY162] Matematika pro fyziky II
+
+**Letní semestr 2022/2023**  
+**Přednášející:** prof. Mgr. Milan Pokorný, Ph.D., DSc.  
+**Cvičící:** doc. RNDr. Michal Pavelka, Ph.D.  
+
+### Zpracované zkouškové otázky
+Ručně psané zpracování zkouškových otázek.
+
+- [Otázka 1](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%201.pdf)
+- [Otázka 2](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%202.pdf)
+- [Otázka 3](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%203.pdf)
+- [Otázka 4](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%204.pdf)
+- [Otázka 5](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%205.pdf)
+- [Otázka 6](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%206.pdf)
+- [Otázka 7](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%207.pdf)
+- [Otázka 8](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%208.pdf)
+- [Otázka 9](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%209.pdf)
+- [Otázka 10](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2010.pdf)
+- [Otázka 11](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2011.pdf)
+- [Otázka 12](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2012.pdf)
+- [Otázka 13](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2013.pdf)
+- [Otázka 14](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2014.pdf)
+- [Otázka 15](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2015.pdf)
+- [Otázka 16](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2016.pdf)
+- [Otázka 17](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2017.pdf)
+- [Otázka 18](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2018.pdf)
+- [Otázka 19](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2019.pdf)
+- [Otázka 20](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2020.pdf)
+- [Otázka 21](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2021.pdf)
+- [Otázka 22](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2022.pdf)
+- [Otázka 23](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2023.pdf)
+- [Otázka 24](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2024.pdf)
+- [Otázka 25](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2025.pdf)
+- [Otázka 26](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2026.pdf)
+- [Otázka 27](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2027.pdf)
+- [Otázka 28](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2028.pdf)
+- [Otázka 29](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Zpracovane%20otazky/[NOFY162]%20Otázka%2029.pdf)
+
+### Domácí úkoly
+Domácí úkoly ve formě řešení několika úloh ze sad na dané cvičení. Může posloužit jako sada řešených příkladů.
+
+- [Domácí úkol 1](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%201.pdf) - Funkce komplexní proměnné: Křivkový integrál
+- [Domácí úkol 2](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%202.pdf) - Komplexní logaritmus, obecná mocnina
+- [Domácí úkol 3](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%203.pdf) - Laurentovy řady
+- [Domácí úkol 4](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%204.pdf) - Reziduová věta I
+- [Domácí úkol 5](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%205.pdf) - Reziduová věta II
+- [Domácí úkol 6](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%206.pdf) - Reziduová věta III
+- [Domácí úkol 7](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%207.pdf) - Distribuce
+- [Domácí úkol 8](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%208.pdf) - Distribuce
+- [Domácí úkol 9](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%209.pdf) - Distribuce
 
 # 🎓 Mgr. Teoretická fyzika
 
