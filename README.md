@@ -18,6 +18,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 ### 🎓 Bc. Fyzika
 
+- [[NOFY018] Elektřina a magnetismus](#nofy018-elektřina-a-magnetismus)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
 - [[NOFY142] Lineární algebra II](#nofy142-lineární-algebra-ii)
@@ -37,6 +38,21 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 <!-- COURSES:START -->
 
 # 🎓 Bc. Fyzika
+
+## [NOFY018] Elektřina a magnetismus
+
+**Letní semestr 2021/2022**  
+**Přednášející:** prof. RNDr. Petr Malý, DrSc., doc. RNDr. František Trojánek, Ph.D.  
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku, rozdělené podle hlavních témat kurzu.
+
+- [Elektrostatika](BcFyzika/[NOFY018]%20Elektřina%20a%20magnetismus/Poznamky/[NOFY018]%20Poznámky%20-%20Elektrostatika.pdf)
+- [Stacionární pole](BcFyzika/[NOFY018]%20Elektřina%20a%20magnetismus/Poznamky/[NOFY018]%20Poznámky%20-%20Stacionární%20pole.pdf)
+- [Kvazistacionární pole](BcFyzika/[NOFY018]%20Elektřina%20a%20magnetismus/Poznamky/[NOFY018]%20Poznámky%20-%20Kvazistacionární%20pole.pdf)
+- [Elektromagnetické pole](BcFyzika/[NOFY018]%20Elektřina%20a%20magnetismus/Poznamky/[NOFY018]%20Poznámky%20-%20Elektromagnetické%20pole.pdf)
+
+---
 
 ## [NOFY055] Úvod do praktické fyziky
 
