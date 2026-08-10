@@ -41,8 +41,8 @@ Dva vypracované domácí úkoly z předmětu Úvod do praktické fyziky.
 
 ### Domácí úkoly
 
-- [Domácí úkol 4](BcFyzika/[NOFY055]%20Úvod%20do%20praktické%20fyziky/Ukoly/[NOFY055]%20Domácí%20úkol%204.pdf)
-- [Domácí úkol 6](BcFyzika/[NOFY055]%20Úvod%20do%20praktické%20fyziky/Ukoly/[NOFY055]%20Domácí%20úkol%206.pdf)
+- [Domácí úkol 4](BcFyzika/[NOFY055]%20Úvod%20do%20praktické%20fyziky/Ukoly/[NOFY055]%20Domácí%20úkol%204.pdf) - Origin, zpracování měření
+- [Domácí úkol 6](BcFyzika/[NOFY055]%20Úvod%20do%20praktické%20fyziky/Ukoly/[NOFY055]%20Domácí%20úkol%206.pdf) - Normální, Cauchyho rozdělení
 
 ---
 
@@ -64,18 +64,18 @@ Ručně psané poznámky k přípravě na zkoušku. Obsahují vypsané věty, de
 ### Domácí úkoly
 Vypracované domácí úkoly, které byly převážně hodnoceny plnými počty bodů. Upozorňuji, že přesto mohou obsahovat chyby či nepřesnosti.
 
-- [Domácí úkol 1](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%201.pdf)
-- [Domácí úkol 2](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%202.pdf)
-- [Domácí úkol 3](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%203.pdf)
-- [Domácí úkol 4](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%204.pdf)
-- [Domácí úkol 5](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%205.pdf)
-- [Domácí úkol 6](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%206.pdf)
-- [Domácí úkol 7](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%207.pdf)
-- [Domácí úkol 8](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%208.pdf)
-- [Domácí úkol 9](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%209.pdf)
-- [Domácí úkol 10](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2010.pdf)
-- [Domácí úkol 11](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2011.pdf)
-- [Domácí úkol 12](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2012.pdf)
+- [Domácí úkol 1](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%201.pdf) - Vektory a zobrazení v $\mathbb{R}^n$
+- [Domácí úkol 2](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%202.pdf) - Matice
+- [Domácí úkol 3](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%203.pdf) - Soustavy lineárních rovnic
+- [Domácí úkol 4](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%204.pdf) - Vektorové prostory
+- [Domácí úkol 5](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%205.pdf) - Báze a dimenze
+- [Domácí úkol 6](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%206.pdf) - Hodnost matice
+- [Domácí úkol 7](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%207.pdf) - Reprezentace vektoru
+- [Domácí úkol 8](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%208.pdf) - Lineární zobrazení
+- [Domácí úkol 9](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%209.pdf) - Determinant
+- [Domácí úkol 10](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2010.pdf) - Aplikace determinantu
+- [Domácí úkol 11](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2011.pdf) - Diagonalizace
+- [Domácí úkol 12](BcFyzika/[NOFY141]%20Lineární%20algebra%20I/Ukoly/[NOFY141]%20Domácí%20úkol%2012.pdf) - Direktní součet
 
 ---
 
@@ -97,17 +97,17 @@ Ručně psané poznámky k přípravě na zkoušku. Obsahují vypsané věty, de
 ### Domácí úkoly
 Vypracované domácí úkoly, které byly převážně hodnoceny plnými počty bodů. Upozorňuji, že přesto mohou obsahovat chyby či nepřesnosti.
 
-- [Domácí úkol 1](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%201.pdf)
-- [Domácí úkol 2](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%202.pdf)
-- [Domácí úkol 3](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%203.pdf)
-- [Domácí úkol 4](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%204.pdf)
-- [Domácí úkol 5](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%205.pdf)
-- [Domácí úkol 6](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%206.pdf)
-- [Domácí úkol 7](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%207.pdf)
-- [Domácí úkol 8](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%208.pdf)
-- [Domácí úkol 9](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%209.pdf)
-- [Domácí úkol 10](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%2010.pdf)
-- [Domácí úkol 11](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%2011.pdf)
+- [Domácí úkol 1](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%201.pdf) - Skalární součin I
+- [Domácí úkol 2](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%202.pdf) - Skalární součin II
+- [Domácí úkol 3](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%203.pdf) - Ortogonalizace
+- [Domácí úkol 4](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%204.pdf) - OG diagonalizace
+- [Domácí úkol 5](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%205.pdf) - Matice OG projekcí
+- [Domácí úkol 6](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%206.pdf) - Kvadratické formy
+- [Domácí úkol 7](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%207.pdf) - Jordanův tvar
+- [Domácí úkol 8](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%208.pdf) - Exponenciála
+- [Domácí úkol 9](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%209.pdf) - Tenzory I
+- [Domácí úkol 10](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%2010.pdf) - Tenzory II
+- [Domácí úkol 11](BcFyzika/[NOFY142]%20Lineární%20algebra%20II/Ukoly/[NOFY142]%20Domácí%20úkol%2011.pdf) - Kvadriky
 
 ---
 
