@@ -22,6 +22,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
 - [[NOFY142] Lineární algebra II](#nofy142-lineární-algebra-ii)
 - [[NOFY151] Matematická analýza I](#nofy151-matematická-analýza-i)
+- [[NOFY152] Matematická analýza II](#nofy152-matematická-analýza-ii)
 
 ### 🎓 Mgr. Teoretická fyzika
 
@@ -156,6 +157,53 @@ Domácí úkoly ve formě řešení několika úloh ze sad na dané cvičení. M
 - [Dobrovolný domácí úkol 1](BcFyzika/[NOFY151]%20Matematická%20analýza%20I/Ukoly/[NOFY151]%20Dobrovolný%20domácí%20úkol%201.pdf) - Nekonečný obvod
 - [Dobrovolný domácí úkol 2](BcFyzika/[NOFY151]%20Matematická%20analýza%20I/Ukoly/[NOFY151]%20Dobrovolný%20domácí%20úkol%202.pdf) - Frekvence spicyonu
 - [Dobrovolný domácí úkol 3](BcFyzika/[NOFY151]%20Matematická%20analýza%20I/Ukoly/[NOFY151]%20Dobrovolný%20domácí%20úkol%203.pdf) - Kinetická energie spicyonů
+
+---
+
+## [NOFY152] Matematická analýza II
+
+**Letní semestr 2021/2022**  
+**Přednášející:** prof. Mgr. Milan Pokorný, Ph.D., DSc.  
+**Cvičící:** doc. RNDr. Michal Pavelka, Ph.D.  
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku. Obsahují vypsané věty, definice, lemmata, důsledky a důkazy ze skript k přednášce.
+
+- [Kapitola 8 - Definice](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%208%20-%20Definice.pdf)
+- [Kapitola 8 - Lemmata](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%208%20-%20Lemmata.pdf)
+- [Kapitola 8 - Tvrzení](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%208%20-%20Tvrzení.pdf)
+- [Kapitola 8 - Věty](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%208%20-%20Věty.pdf)
+- [Kapitola 9 - Definice](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%209%20-%20Definice.pdf)
+- [Kapitola 9 - Lemmata](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%209%20-%20Lemmata.pdf)
+- [Kapitola 9 - Tvrzení](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%209%20-%20Tvrzení.pdf)
+- [Kapitola 9 - Věty](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%209%20-%20Věty.pdf)
+- [Kapitola 10 - Definice](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2010%20-%20Definice.pdf)
+- [Kapitola 10 - Lemmata](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2010%20-%20Lemmata.pdf)
+- [Kapitola 10 - Věty](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2010%20-%20Věty.pdf)
+- [Kapitola 11 - Definice](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2011%20-%20Definice.pdf)
+- [Kapitola 11 - Lemmata](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2011%20-%20Lemmata.pdf)
+- [Kapitola 11 - Tvrzení](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2011%20-%20Tvrzení.pdf)
+- [Kapitola 11 - Věty](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2011%20-%20Věty.pdf)
+- [Kapitola 12 - Definice](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2012%20-%20Definice.pdf)
+- [Kapitola 12 - Tvrzení](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2012%20-%20Tvrzení.pdf)
+- [Kapitola 12 - Věty](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2012%20-%20Věty.pdf)
+- [Kapitola 13 - Definice](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2013%20-%20Definice.pdf)
+- [Kapitola 13 - Lemmata](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2013%20-%20Lemmata.pdf)
+- [Kapitola 13 - Věty](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Poznamky/[NOFY152]%20Poznámky%20-%20Kapitola%2013%20-%20Věty.pdf)
+
+### Domácí úkoly
+Domácí úkoly ve formě řešení několika úloh ze sad na dané cvičení. Může posloužit jako sada řešených příkladů.
+
+- [Domácí úkol 1](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%201.pdf) - Aplikace integrálu
+- [Domácí úkol 2](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%202.pdf) - Obyčejné diferenciální rovnice
+- [Domácí úkol 3](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%203.pdf) - ODR - Bernoulliova rovnice
+- [Domácí úkol 4](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%204.pdf) - ODR - Lineární rovnice
+- [Domácí úkol 5](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%205.pdf) - Číselné řady I
+- [Domácí úkol 6](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%206.pdf) - Číselné řady II
+- [Domácí úkol 7](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%207.pdf) - Mocninné řady
+- [Domácí úkol 10](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%2010.pdf) - Totální diferenciál
+- [Domácí úkol 11](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%2011.pdf) - Extrémy funkcí a IFT
+- [Domácí úkol 12](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%2012.pdf) - Vázané extrémy FVP
 
 ---
 
