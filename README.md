@@ -25,6 +25,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY152] Matematická analýza II](#nofy152-matematická-analýza-ii)
 - [[NOFY161] Matematika pro fyziky I](#nofy161-matematika-pro-fyziky-i)
 - [[NOFY162] Matematika pro fyziky II](#nofy162-matematika-pro-fyziky-ii)
+- [[NOFY163] Rovnice matematické fyziky](#nofy163-rovnice-matematické-fyziky)
 
 ### 🎓 Mgr. Teoretická fyzika
 
@@ -302,6 +303,53 @@ Domácí úkoly ve formě řešení několika úloh ze sad na dané cvičení. M
 - [Domácí úkol 7](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%207.pdf) - Distribuce
 - [Domácí úkol 8](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%208.pdf) - Distribuce
 - [Domácí úkol 9](BcFyzika/[NOFY162]%20Matematika%20pro%20fyziky%20II/Ukoly/[NOFY162]%20Domácí%20úkol%209.pdf) - Distribuce
+
+---
+
+## [NOFY163] Rovnice matematické fyziky
+
+**Zimní semestr 2023/2024**  
+**Přednášející:** prof. RNDr. Milan Pokorný, Ph.D., DSc.  
+**Cvičící:** prof. RNDr. Milan Pokorný, Ph.D., DSc.
+
+### Zpracované zkouškové otázky
+Ručně psané zpracování zkouškových otázek.
+
+- [Otázka 1](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%201.pdf)
+- [Otázka 2](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%202.pdf)
+- [Otázka 3](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%203.pdf)
+- [Otázka 4](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%204.pdf)
+- [Otázka 5](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%205.pdf)
+- [Otázka 6](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%206.pdf)
+- [Otázka 7](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%207.pdf)
+- [Otázka 8](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%208.pdf)
+- [Otázka 9](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%209.pdf)
+- [Otázka 10](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2010.pdf)
+- [Otázka 11](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2011.pdf)
+- [Otázka 12](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2012.pdf)
+- [Otázka 13](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2013.pdf)
+- [Otázka 14](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2014.pdf)
+- [Otázka 15](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2015.pdf)
+- [Otázka 16](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2016.pdf)
+- [Otázka 17](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2017.pdf)
+- [Otázka 18](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2018.pdf)
+- [Otázka 19](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2019.pdf)
+- [Otázka 20](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2020.pdf)
+- [Otázka 21](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2021.pdf)
+- [Otázka 22](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2022.pdf)
+- [Otázka 23](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2023.pdf)
+- [Otázka 24](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2024.pdf)
+- [Otázka 25](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2025.pdf)
+- [Otázka 26](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2026.pdf)
+- [Otázka 27](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Zpracovane%20otazky/[NOFY163]%20Otázka%2027.pdf)
+
+### Domácí úkoly
+Spočítané domácí úkoly.
+
+- [Domácí úkol 1](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Ukoly/[NOFY163]%20Domácí%20úkol%201.pdf) - Fundamentální řešení ODR, Rovnice vedení tepla
+- [Domácí úkol 2](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Ukoly/[NOFY163]%20Domácí%20úkol%202.pdf) - Laplaceova rovnice
+
+---
 
 # 🎓 Mgr. Teoretická fyzika
 
