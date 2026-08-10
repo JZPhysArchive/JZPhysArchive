@@ -26,6 +26,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY161] Matematika pro fyziky I](#nofy161-matematika-pro-fyziky-i)
 - [[NOFY162] Matematika pro fyziky II](#nofy162-matematika-pro-fyziky-ii)
 - [[NOFY163] Rovnice matematické fyziky](#nofy163-rovnice-matematické-fyziky)
+- [[NMAF006] Vybrané partie z matematiky pro fyziky](#nmaf006-vybrané-partie-z-matematiky-pro-fyziky)
 
 ### 🎓 Mgr. Teoretická fyzika
 
@@ -348,6 +349,31 @@ Spočítané domácí úkoly.
 
 - [Domácí úkol 1](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Ukoly/[NOFY163]%20Domácí%20úkol%201.pdf) - Fundamentální řešení ODR, Rovnice vedení tepla
 - [Domácí úkol 2](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Ukoly/[NOFY163]%20Domácí%20úkol%202.pdf) - Laplaceova rovnice
+
+---
+
+## [NMAF006] Vybrané partie z matematiky pro fyziky
+
+**Letní semestr 2023/2024**  
+**Přednášející:** doc. RNDr. Mirko Rokyta, CSc.
+
+### Zpracované zkouškové otázky
+Ručně psané zpracování zkouškových otázek.
+
+- [Otázka 1](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%201.pdf)
+- [Otázka 2](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%202.pdf)
+- [Otázka 3](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%203.pdf)
+- [Otázka 4](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%204.pdf)
+- [Otázka 5](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%205.pdf)
+- [Otázka 6](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%206.pdf)
+- [Otázka 7](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%207.pdf)
+- [Otázka 8](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%208.pdf)
+- [Otázka 9](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%209.pdf)
+- [Otázka 10](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%2010.pdf)
+- [Otázka 11](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%2011.pdf)
+- [Otázka 12](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%2012.pdf)
+- [Otázka 13](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%2013.pdf)
+- [Otázka 14](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%2014.pdf)
 
 ---
 
