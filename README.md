@@ -23,6 +23,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY142] Lineární algebra II](#nofy142-lineární-algebra-ii)
 - [[NOFY151] Matematická analýza I](#nofy151-matematická-analýza-i)
 - [[NOFY152] Matematická analýza II](#nofy152-matematická-analýza-ii)
+- [[NOFY161] Matematika pro fyziky I](#nofy161-matematika-pro-fyziky-i)
 
 ### 🎓 Mgr. Teoretická fyzika
 
@@ -204,6 +205,48 @@ Domácí úkoly ve formě řešení několika úloh ze sad na dané cvičení. M
 - [Domácí úkol 10](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%2010.pdf) - Totální diferenciál
 - [Domácí úkol 11](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%2011.pdf) - Extrémy funkcí a IFT
 - [Domácí úkol 12](BcFyzika/[NOFY152]%20Matematická%20analýza%20II/Ukoly/[NOFY152]%20Domácí%20úkol%2012.pdf) - Vázané extrémy FVP
+
+---
+
+## [NOFY161] Matematika pro fyziky I
+
+**Zimní semestr 2022/2023**  
+**Přednášející:** prof. Mgr. Milan Pokorný, Ph.D., DSc.  
+**Cvičící:** doc. RNDr. Michal Pavelka, Ph.D.  
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku. Obsahují vypsané věty, definice, lemmata, důsledky a důkazy ze skript k přednášce.
+
+- [Kapitola 14 - Definice](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2014%20-%20Definice.pdf)
+- [Kapitola 14 - Tvrzení](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2014%20-%20Tvrzení.pdf)
+- [Kapitola 14 - Věty](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2014%20-%20Věty.pdf)
+- [Kapitola 15 - Definice](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2015%20-%20Definice.pdf)
+- [Kapitola 15 - Lemmata](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2015%20-%20Lemmata.pdf)
+- [Kapitola 15 - Tvrzení](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2015%20-%20Tvrzení.pdf)
+- [Kapitola 15 - Věty](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2015%20-%20Věty.pdf)
+- [Kapitola 16 - Definice](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2016%20-%20Definice.pdf)
+- [Kapitola 16 - Tvrzení](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2016%20-%20Tvrzení.pdf)
+- [Kapitola 16 - Věty](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2016%20-%20Věty.pdf)
+- [Kapitola 17 - Definice](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2017%20-%20Definice.pdf)
+- [Kapitola 17 - Věty](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2017%20-%20Věty.pdf)
+- [Kapitola 19 - Definice](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2019%20-%20Definice.pdf)
+- [Kapitola 19 - Věty](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Poznamky/[NOFY161]%20Poznámky%20-%20Kapitola%2019%20-%20Věty.pdf)
+
+### Domácí úkoly
+Domácí úkoly ve formě řešení několika úloh ze sad na dané cvičení. Může posloužit jako sada řešených příkladů.
+
+- [Domácí úkol 1](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Ukoly/[NOFY161]%20Domácí%20úkol%201.pdf) - Variační počet I
+- [Domácí úkol 2](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Ukoly/[NOFY161]%20Domácí%20úkol%202.pdf) - Posloupnosti funkcí
+- [Domácí úkol 3](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Ukoly/[NOFY161]%20Domácí%20úkol%203.pdf) - Řady funkcí
+- [Domácí úkol 4](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Ukoly/[NOFY161]%20Domácí%20úkol%204.pdf) - Fubiniho věta, věta o substituci
+- [Domácí úkol 5](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Ukoly/[NOFY161]%20Domácí%20úkol%205.pdf) - Integrály závislé na parametru
+- [Domácí úkol 6](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Ukoly/[NOFY161]%20Domácí%20úkol%206.pdf) - Křivkový integrál
+- [Domácí úkol 7](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Ukoly/[NOFY161]%20Domácí%20úkol%207.pdf) - Stejnoměrná konvergence řad
+- [Domácí úkol 8](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Ukoly/[NOFY161]%20Domácí%20úkol%208.pdf) - Stejnoměrná konvergence řad
+
+### Dobrovolné domácí úkoly
+
+- [Dobrovolný domácí úkol 1](BcFyzika/[NOFY161]%20Matematika%20pro%20fyziky%20I/Ukoly/[NOFY161]%20Dobrovolný%20domácí%20úkol%201.pdf) - Fata morgana
 
 ---
 
