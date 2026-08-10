@@ -18,6 +18,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 ### 🎓 Bc. Fyzika
 
+- [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
 - [[NOFY142] Lineární algebra II](#nofy142-lineární-algebra-ii)
 
@@ -30,6 +31,20 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 <!-- COURSES:START -->
 
 # 🎓 Bc. Fyzika
+
+## [NOFY055] Úvod do praktické fyziky
+
+**Zimní semestr 2021/2022**  
+**Přednášející:** doc. RNDr. Helena Valentová, Ph.D.  
+
+Dva vypracované domácí úkoly z předmětu Úvod do praktické fyziky.
+
+### Domácí úkoly
+
+- [Domácí úkol 4](BcFyzika/[NOFY055]%20Úvod%20do%20praktické%20fyziky/Ukoly/[NOFY055]%20Domácí%20úkol%204.pdf)
+- [Domácí úkol 6](BcFyzika/[NOFY055]%20Úvod%20do%20praktické%20fyziky/Ukoly/[NOFY055]%20Domácí%20úkol%206.pdf)
+
+---
 
 ## [NOFY141] Lineární algebra I
 
