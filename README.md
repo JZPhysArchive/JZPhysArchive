@@ -24,6 +24,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY023] Speciální teorie relativity](#nofy023-speciální-teorie-relativity)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY070] Proseminář z teoretické fyziky](#nofy070-proseminář-z-teoretické-fyziky)
+- [[NOFY125] Atomová fyzika a elektronová struktura látek](#nofy125-atomová-fyzika-a-elektronová-struktura-látek)
 - [[NOFY126] Klasická elektrodynamika](#nofy126-klasická-elektrodynamika)
 - [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
 - [[NOFY142] Lineární algebra II](#nofy142-lineární-algebra-ii)
@@ -163,6 +164,23 @@ Ručně psané poznámky z přednášek.
 - [3. Distribuce ve více dim.](BcFyzika/[NOFY070]%20Proseminář%20z%20teoretické%20fyziky/Poznamky/[NOFY070]%20Poznámky%20-%20Distribuce%20ve%20více%20dim.pdf)
 - [4. Teorie pole](BcFyzika/[NOFY070]%20Proseminář%20z%20teoretické%20fyziky/Poznamky/[NOFY070]%20Poznámky%20-%20Teorie%20pole.pdf)
 - [5. Relativita](BcFyzika/[NOFY070]%20Proseminář%20z%20teoretické%20fyziky/Poznamky/[NOFY070]%20Poznámky%20-%20Relativita.pdf)
+
+---
+
+## [NOFY125] Atomová fyzika a elektronová struktura látek
+
+**Letní semestr 2022/2023**  
+**Přednášející:** doc. RNDr. Stanislav Daniš, Ph.D.  
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku.
+
+- [1. Atomy](BcFyzika/[NOFY125]%20Atomová%20fyzika%20a%20elektronová%20struktura%20látek/Poznamky/[NOFY125]%20Poznámky%20-%201%20Atomy.pdf)
+- [2. Molekuly a jejich struktura](BcFyzika/[NOFY125]%20Atomová%20fyzika%20a%20elektronová%20struktura%20látek/Poznamky/[NOFY125]%20Poznámky%20-%202%20Molekuly%20a%20struktura.pdf)
+- [3. Struktura pevných látek](BcFyzika/[NOFY125]%20Atomová%20fyzika%20a%20elektronová%20struktura%20látek/Poznamky/[NOFY125]%20Poznámky%20-%203%20Struktura%20solidů.pdf)
+- [4. Korpuskulárně vlnový dualismus](BcFyzika/[NOFY125]%20Atomová%20fyzika%20a%20elektronová%20struktura%20látek/Poznamky/[NOFY125]%20Poznámky%20-%204%20Dualismus.pdf)
+- [5. Měrné teplo pevných látek](BcFyzika/[NOFY125]%20Atomová%20fyzika%20a%20elektronová%20struktura%20látek/Poznamky/[NOFY125]%20Poznámky%20-%205%20Měrné%20teplo.pdf)
+- [6. Elektronová struktura](BcFyzika/[NOFY125]%20Atomová%20fyzika%20a%20elektronová%20struktura%20látek/Poznamky/[NOFY125]%20Poznámky%20-%206%20Elektronová%20struktura.pdf)
 
 ---
 
