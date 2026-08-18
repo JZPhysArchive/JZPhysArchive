@@ -18,6 +18,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 ### 🎓 Bc. Fyzika
 
+- [[NOFY003] Teoretická mechanika](#nofy003-teoretická-mechanika)
 - [[NOFY018] Elektřina a magnetismus](#nofy018-elektřina-a-magnetismus)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
@@ -38,6 +39,30 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 <!-- COURSES:START -->
 
 # 🎓 Bc. Fyzika
+
+## [NOFY003] Teoretická mechanika
+
+**Zimní semestr 2022/2023**  
+**Přednášející:** prof. RNDr. Jiří Podolský, CSc., DSc.  
+**Cvičící:** prof. RNDr. Jiří Podolský, CSc., DSc.
+
+### Poznámky
+Ručně psané poznámky z přednášek.
+
+- [Newtonovy rovnice s vazbami](BcFyzika/[NOFY003]%20Teoretická%20mechanika/Poznamky/[NOFY003]%20Poznámky%20-%20Newtonovy%20rovnice%20s%20vazbami.pdf)
+- [Lagrangeův formalismus](BcFyzika/[NOFY003]%20Teoretická%20mechanika/Poznamky/[NOFY003]%20Poznámky%20-%20Lagrangeův%20formalismus.pdf)
+- [Hamiltonův variační princip](BcFyzika/[NOFY003]%20Teoretická%20mechanika/Poznamky/[NOFY003]%20Poznámky%20-%20Hamiltonův%20variační%20princip.pdf)
+- [Hamiltonův formalismus](BcFyzika/[NOFY003]%20Teoretická%20mechanika/Poznamky/[NOFY003]%20Poznámky%20-%20Hamiltonův%20formalismus.pdf)
+- [Mechanika tuhého tělesa](BcFyzika/[NOFY003]%20Teoretická%20mechanika/Poznamky/[NOFY003]%20Poznámky%20-%20Mechanika%20tuhého%20tělesa.pdf)
+- [Mechanika kontinua](BcFyzika/[NOFY003]%20Teoretická%20mechanika/Poznamky/[NOFY003]%20Poznámky%20-%20Mechanika%20kontinua.pdf)
+
+### Úkoly
+- [Domácí úkol 1](BcFyzika/[NOFY003]%20Teoretická%20mechanika/Ukoly/[NOFY003]%20Domácí%20úkol%201.pdf) - Pohyb čtvercového kola
+- [Domácí úkol 2](BcFyzika/[NOFY003]%20Teoretická%20mechanika/Ukoly/[NOFY003]%20Domácí%20úkol%202.pdf) - Převrácené kyvadlo
+- [Domácí úkol 3](BcFyzika/[NOFY003]%20Teoretická%20mechanika/Ukoly/[NOFY003]%20Domácí%20úkol%203.pdf) - Relativistická nabitá částice
+- [Domácí úkol 4](BcFyzika/[NOFY003]%20Teoretická%20mechanika/Ukoly/[NOFY003]%20Domácí%20úkol%204.pdf) - Pohyb Powerballu
+
+---
 
 ## [NOFY018] Elektřina a magnetismus
 
