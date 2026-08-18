@@ -26,6 +26,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY070] Proseminář z teoretické fyziky](#nofy070-proseminář-z-teoretické-fyziky)
 - [[NOFY125] Atomová fyzika a elektronová struktura látek](#nofy125-atomová-fyzika-a-elektronová-struktura-látek)
 - [[NOFY126] Klasická elektrodynamika](#nofy126-klasická-elektrodynamika)
+- [[NOFY127] Úvod do kvantové mechaniky](#nofy127-úvod-do-kvantové-mechaniky)
 - [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
 - [[NOFY142] Lineární algebra II](#nofy142-lineární-algebra-ii)
 - [[NOFY151] Matematická analýza I](#nofy151-matematická-analýza-i)
@@ -206,6 +207,41 @@ Ručně psané poznámky z přednášek.
 - [5. Elektrodynamika](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Poznamky/[NOFY126]%20Poznámky%20-%20Elektrodynamika.pdf)
 - [6. Elektrodynamika se zdroji](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Poznamky/[NOFY126]%20Poznámky%20-%20ELDYN%20se%20zdroji.pdf)
 - [7. Elektrodynamika bez zdrojů](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Poznamky/[NOFY126]%20Poznámky%20-%20ELDYN%20bez%20zdrojů.pdf)
+
+---
+
+## [NOFY127] Úvod do kvantové mechaniky
+
+**Letní semestr 2022/2023**  
+**Přednášející:** doc. Ing. Pavel Soldán, Dr.  
+**Cvičící:** doc. Mgr. Jiří Klimeš, Ph.D.  
+
+### Poznámky
+Ručně psané poznámky z přednášek.
+
+- [Historický přehled](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Historick%C3%BD%20p%C5%99ehled.pdf)
+- [Postuláty kvantové mechaniky I](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Postul%C3%A1ty%20kvantov%C3%A9%20mechaniky%20I.pdf)
+- [Částice v nekonečně hluboké potenciálové jámě](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20%C4%8C%C3%A1stice%20v%20nekone%C4%8Dn%C4%9B%20hlubok%C3%A9%20potenci%C3%A1lov%C3%A9%20j%C3%A1m%C4%9B.pdf)
+- [Postuláty kvantové mechaniky II](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Postul%C3%A1ty%20kvantov%C3%A9%20mechaniky%20II.pdf)
+- [Volná částice](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Voln%C3%A1%20%C4%8D%C3%A1stice.pdf)
+- [Další potenciálové jámy](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Dal%C5%A1%C3%AD%20potenci%C3%A1lov%C3%A9%20j%C3%A1my.pdf)
+- [Relace neurčitosti](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Relace%20neur%C4%8Ditosti.pdf)
+- [Kvantový lineární harmonický oscilátor](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Kvantov%C3%BD%20line%C3%A1rn%C3%AD%20harmonick%C3%BD%20oscil%C3%A1tor.pdf)
+- [Integrály pohybu](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Integr%C3%A1ly%20pohybu.pdf)
+- [Moment hybnosti](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Moment%20hybnosti.pdf)
+- [Postuláty kvantové mechaniky III - Spin](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Postul%C3%A1ty%20kvantov%C3%A9%20mechaniky%20III%20-%20Spin.pdf)
+- [Vodíku podobný atom](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Poznamky/%5BNOFY127%5D%20Pozn%C3%A1mky%20-%20Vod%C3%ADku%20podobn%C3%BD%20atom.pdf)
+
+### Domácí úkoly
+Vypracované domácí úkoly z cvičení.
+
+- [Domácí úkol 1](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Ukoly/%5BNOFY127%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%201.pdf) - Relevance kvantové mechaniky a lineární algebry
+- [Domácí úkol 2](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Ukoly/%5BNOFY127%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%202.pdf) - Funkce, operátory a lineární algebra, 2. díl
+- [Domácí úkol 3](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Ukoly/%5BNOFY127%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%203.pdf) - Integrály a lineární algebra
+- [Domácí úkol 4](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Ukoly/%5BNOFY127%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%204.pdf) - Kvantový harmonický oscilátor
+- [Domácí úkol 5](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Ukoly/%5BNOFY127%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%205.pdf) - Vyjádření pomocí hybnosti
+- [Domácí úkol 6](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Ukoly/%5BNOFY127%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%206.pdf) - Vlastní stavy operátoru $\hat{L}_x$
+- [Domácí úkol 7](BcFyzika/%5BNOFY127%5D%20%C3%9Avod%20do%20kvantov%C3%A9%20mechaniky/Ukoly/%5BNOFY127%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%207.pdf) - Maticové elementy $\hat{x}$, $\hat{y}$ a $\hat{z}$
 
 ---
 
