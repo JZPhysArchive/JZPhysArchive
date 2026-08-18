@@ -115,7 +115,7 @@ Ručně psané poznámky k přípravě na zkoušku, rozdělené podle hlavních 
 **Přednášející:** doc. RNDr. Oldřich Semerák, DSc.  
 
 ### Poznámky
-Ručně psané poznámky z přednášek.
+Ručně psané poznámky k přípravě na zkoušku, rozdělené podle hlavních témat kurzu.
 
 - [1. Úvod](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Úvod.pdf)
 - [2. Principy speciální teorie relativity](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Principy%20STR.pdf)
