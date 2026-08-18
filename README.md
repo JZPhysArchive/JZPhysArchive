@@ -23,6 +23,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY022] Optika](#nofy022-optika)
 - [[NOFY023] Speciální teorie relativity](#nofy023-speciální-teorie-relativity)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
+- [[NOFY126] Klasická elektrodynamika](#nofy126-klasická-elektrodynamika)
 - [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
 - [[NOFY142] Lineární algebra II](#nofy142-lineární-algebra-ii)
 - [[NOFY151] Matematická analýza I](#nofy151-matematická-analýza-i)
@@ -139,6 +140,31 @@ Dva vypracované domácí úkoly z předmětu Úvod do praktické fyziky.
 
 - [Domácí úkol 4](BcFyzika/[NOFY055]%20Úvod%20do%20praktické%20fyziky/Ukoly/[NOFY055]%20Domácí%20úkol%204.pdf) - Origin, zpracování měření
 - [Domácí úkol 6](BcFyzika/[NOFY055]%20Úvod%20do%20praktické%20fyziky/Ukoly/[NOFY055]%20Domácí%20úkol%206.pdf) - Normální, Cauchyho rozdělení
+
+---
+
+## [NOFY126] Klasická elektrodynamika
+
+**Letní semestr 2022/2023**  
+**Přednášející:** prof. RNDr. Pavel Krtouš, Ph.D.  
+**Cvičící:** prof. RNDr. Pavel Krtouš, Ph.D.  
+
+### Zápočtové problémy
+Dva vypracované zápočtové problémy.
+
+- [Zápočtový problém 1](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Ukoly/[NOFY126]%20Zápočtový%20problém%201.pdf)
+- [Zápočtový problém 2](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Ukoly/[NOFY126]%20Zápočtový%20problém%202.pdf)
+
+### Poznámky
+Ručně psané poznámky z přednášek.
+
+- [1. Elektrostatika](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Poznamky/[NOFY126]%20Poznámky%20-%20Elektrostatika.pdf)
+- [2. Magnetostatika](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Poznamky/[NOFY126]%20Poznámky%20-%20Magnetostatika.pdf)
+- [3. Kvazistacionární pole](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Poznamky/[NOFY126]%20Poznámky%20-%20Kvazistacionární%20pole.pdf)
+- [4. Energie](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Poznamky/[NOFY126]%20Poznámky%20-%20Energie.pdf)
+- [5. Elektrodynamika](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Poznamky/[NOFY126]%20Poznámky%20-%20Elektrodynamika.pdf)
+- [6. Elektrodynamika se zdroji](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Poznamky/[NOFY126]%20Poznámky%20-%20ELDYN%20se%20zdroji.pdf)
+- [7. Elektrodynamika bez zdrojů](BcFyzika/[NOFY126]%20Klasická%20elektrodynamika/Poznamky/[NOFY126]%20Poznámky%20-%20ELDYN%20bez%20zdrojů.pdf)
 
 ---
 
