@@ -21,6 +21,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY003] Teoretická mechanika](#nofy003-teoretická-mechanika)
 - [[NOFY018] Elektřina a magnetismus](#nofy018-elektřina-a-magnetismus)
 - [[NOFY022] Optika](#nofy022-optika)
+- [[NOFY023] Speciální teorie relativity](#nofy023-speciální-teorie-relativity)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
 - [[NOFY142] Lineární algebra II](#nofy142-lineární-algebra-ii)
@@ -105,6 +106,25 @@ Ručně psané poznámky k přípravě na zkoušku, rozdělené podle hlavních 
 - [16. Nelineární optika](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2016%20Nelineární%20optika.pdf)
 - [17. Vláknová optika](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2017%20Vláknová%20optika.pdf)
 - [19. Korpuskulárně-vlnový dualismus](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2019%20Dualismus.pdf)
+
+---
+
+## [NOFY023] Speciální teorie relativity
+
+**Zimní semestr 2022/2023**  
+**Přednášející:** doc. RNDr. Oldřich Semerák, DSc.  
+
+### Poznámky
+Ručně psané poznámky z přednášek.
+
+- [1. Úvod](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Úvod.pdf)
+- [2. Principy speciální teorie relativity](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Principy%20STR.pdf)
+- [3. Minkowského prostoročas](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Minkowského%20prostoročas.pdf)
+- [4. Relativistická mechanika](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Relativistická%20mechanika.pdf)
+- [5. Elektrodynamika](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Elektrodynamika.pdf)
+- [6. Vzhled objektů pohybujících se rychlostí blízkou rychlosti světla](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Vzhled%20objektů.pdf)
+- [7. Variační principy](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Variační%20principy.pdf)
+- [8. Tenzor energie a hybnosti](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Tenzor%20energie%20a%20hybnosti.pdf)
 
 ---
 
