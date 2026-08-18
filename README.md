@@ -20,6 +20,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 - [[NOFY003] Teoretická mechanika](#nofy003-teoretická-mechanika)
 - [[NOFY018] Elektřina a magnetismus](#nofy018-elektřina-a-magnetismus)
+- [[NOFY022] Optika](#nofy022-optika)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY141] Lineární algebra I](#nofy141-lineární-algebra-i)
 - [[NOFY142] Lineární algebra II](#nofy142-lineární-algebra-ii)
@@ -76,6 +77,34 @@ Ručně psané poznámky k přípravě na zkoušku, rozdělené podle hlavních 
 - [Stacionární pole](BcFyzika/[NOFY018]%20Elektřina%20a%20magnetismus/Poznamky/[NOFY018]%20Poznámky%20-%20Stacionární%20pole.pdf)
 - [Kvazistacionární pole](BcFyzika/[NOFY018]%20Elektřina%20a%20magnetismus/Poznamky/[NOFY018]%20Poznámky%20-%20Kvazistacionární%20pole.pdf)
 - [Elektromagnetické pole](BcFyzika/[NOFY018]%20Elektřina%20a%20magnetismus/Poznamky/[NOFY018]%20Poznámky%20-%20Elektromagnetické%20pole.pdf)
+
+---
+
+## [NOFY022] Optika
+
+**Zimní semestr 2022/2023**  
+**Přednášející:** prof. RNDr. Petr Malý, DrSc.  
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku, rozdělené podle hlavních témat kurzu.
+
+- [1. Světlo jako elektromagnetická vlna](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%201%20Světlo%20jako%20EMV.pdf)
+- [2. Polarizace světla rovinné monochromatické vlny](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%202%20Polarizace%20světla%20RMV.pdf)
+- [3. Odraz a lom na rozhraní dvou prostředí](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%203%20Odraz%20a%20lom.pdf)
+- [4. Kvazimonochromatické elektromagnetické vlnění](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%204%20Kvazimonochromatika.pdf)
+- [5. Interference světla](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%205%20Interference%20světla.pdf)
+- [6. Koherence světla](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%206%20Koherence%20světla.pdf)
+- [7. Holografie](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%207%20Holografie.pdf)
+- [8. Difrakce světla](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%208%20Difrakce%20světla.pdf)
+- [9. Fourierova optika](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%209%20Fourierova%20optika.pdf)
+- [10. Geometrická optika](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2010%20Geometrická%20optika.pdf)
+- [11. Spektrální přístroje](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2011%20Spektrální%20přístroje.pdf)
+- [13. Šíření světla v anizotropních látkách](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2013%20Anizotropní%20látky.pdf)
+- [14. Interakce světla s látkou](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2014%20Interakce%20s%20látkou.pdf)
+- [15. Základy fyziky laserů](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2015%20Základy%20laseru.pdf)
+- [16. Nelineární optika](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2016%20Nelineární%20optika.pdf)
+- [17. Vláknová optika](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2017%20Vláknová%20optika.pdf)
+- [19. Korpuskulárně-vlnový dualismus](BcFyzika/[NOFY022]%20Optika/Poznamky/[NOFY022]%20Poznámky%20-%2019%20Dualismus.pdf)
 
 ---
 
