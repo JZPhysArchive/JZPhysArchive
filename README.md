@@ -24,6 +24,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY023] Speciální teorie relativity](#nofy023-speciální-teorie-relativity)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY070] Proseminář z teoretické fyziky](#nofy070-proseminář-z-teoretické-fyziky)
+- [[NOFY076] Kvantová teorie I](#nofy076-kvantová-teorie-i)
 - [[NOFY125] Atomová fyzika a elektronová struktura látek](#nofy125-atomová-fyzika-a-elektronová-struktura-látek)
 - [[NOFY126] Klasická elektrodynamika](#nofy126-klasická-elektrodynamika)
 - [[NOFY127] Úvod do kvantové mechaniky](#nofy127-úvod-do-kvantové-mechaniky)
@@ -166,6 +167,46 @@ Ručně psané poznámky z přednášek.
 - [4. Teorie pole](BcFyzika/[NOFY070]%20Proseminář%20z%20teoretické%20fyziky/Poznamky/[NOFY070]%20Poznámky%20-%20Teorie%20pole.pdf)
 - [5. Relativita](BcFyzika/[NOFY070]%20Proseminář%20z%20teoretické%20fyziky/Poznamky/[NOFY070]%20Poznámky%20-%20Relativita.pdf)
 
+---
+
+## [NOFY076] Kvantová teorie I
+
+**Zimní semestr 2023/2024**  
+**Přednášející:** prof. RNDr. Pavel Cejnar, Dr., DSc.  
+**Cvičící:** doc. RNDr. Pavel Stránský, Ph.D.
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku.
+
+- [0 Úvod](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%200%20U%CC%81vod.pdf)
+- [1 Stavové prostory](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%201%20Stavove%CC%81%20prostory.pdf)
+- [2a Pozorovatelné fyzikálních veličin](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%202a%20Pozorovatelne%CC%81.pdf)
+- [2b Příklady kvantových operátorů](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%202b%20Pr%CC%8Ci%CC%81klady%20opera%CC%81toru%CC%8A.pdf)
+- [3a Kompatibilní a nekompatibilní veličiny](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%203a%20Kompatibilita%20velic%CC%8Cin.pdf)
+- [3b Příklady (ne)komutujících operátorů](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%203b%20Pr%CC%8Ci%CC%81klady%20kompatibility.pdf)
+- [4a Reprezentace fyzikálních transformací](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%204a%20Transformace.pdf)
+- [4b Základní časoprostorové transformace](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%204b%20Pr%CC%8Ci%CC%81klady%20transformaci%CC%81.pdf)
+- [5a Spontánní evoluce kvantového systému](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%205a%20Sponta%CC%81nni%CC%81%20evoluce.pdf)
+- [5b Příklady časového vývoje](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%205b%20Pr%CC%8Ci%CC%81klady%20evoluce.pdf)
+- [6 Kvantové měření](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%206%20Kvantove%CC%81%20me%CC%8Cr%CC%8Ceni%CC%81.pdf)
+- [7 Smíšené stavy](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%207%20Smi%CC%81s%CC%8Cene%CC%81%20stavy.pdf)
+- [8 Stacionární poruchová metoda](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Poznamky/%5BNOFY076%5D%20Pozn%C3%A1mky%20-%208%20Staciona%CC%81rni%CC%81%20porucha.pdf)
+
+### Domácí úkoly
+Vypracované domácí úkoly z cvičení.
+
+- [Domácí úkol 1](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%201.pdf) - BCH Formule
+- [Domácí úkol 2](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%202.pdf) - Jednoduché kvantové systémy
+- [Domácí úkol 3](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%203.pdf) - Interakce spinu s dvouhladinovým systémem
+- [Domácí úkol 4](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%204.pdf) - Kvartický oscilátor
+- [Domácí úkol 5](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%205.pdf) - Kvantový míček
+- [Domácí úkol 6](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%206.pdf) - Moment hybnosti atomu vodíku
+- [Domácí úkol 7](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%207.pdf) - Dvě $\delta$ jámy nebo bariéry
+- [Domácí úkol 8](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%208.pdf) - Diracův hřeben
+- [Domácí úkol 9](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%209.pdf) - Koherentní stavy v $x$-reprezentaci
+- [Domácí úkol 10](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%2010.pdf) - Ramseyův přístroj pro spin 1
+- [Domácí úkol 11](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%2011.pdf) - Isotopický posun energie
+- [Domácí úkol 12](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%2012.pdf) - Zenonův jev pro Ramseyův přístroj
 ---
 
 ## [NOFY125] Atomová fyzika a elektronová struktura látek
