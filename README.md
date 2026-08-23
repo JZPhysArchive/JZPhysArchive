@@ -36,6 +36,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY161] Matematika pro fyziky I](#nofy161-matematika-pro-fyziky-i)
 - [[NOFY162] Matematika pro fyziky II](#nofy162-matematika-pro-fyziky-ii)
 - [[NOFY163] Rovnice matematické fyziky](#nofy163-rovnice-matematické-fyziky)
+- [[NTMF043] Termodynamika a statistická fyzika I](#ntmf043-termodynamika-a-statistická-fyzika-i)
 - [[NMAF006] Vybrané partie z matematiky pro fyziky](#nmaf006-vybrané-partie-z-matematiky-pro-fyziky)
 
 ### 🎓 Mgr. Teoretická fyzika
@@ -616,6 +617,33 @@ Spočítané domácí úkoly.
 
 - [Domácí úkol 1](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Ukoly/[NOFY163]%20Domácí%20úkol%201.pdf) - Fundamentální řešení ODR, Rovnice vedení tepla
 - [Domácí úkol 2](BcFyzika/[NOFY163]%20Rovnice%20matematické%20fyziky/Ukoly/[NOFY163]%20Domácí%20úkol%202.pdf) - Laplaceova rovnice
+
+---
+
+## [NTMF043] Termodynamika a statistická fyzika I
+
+**Zimní semestr 2023/2024**  
+**Přednášející:** doc. RNDr. Přemysl Kolorenč, Ph.D.  
+**Cvičící:** doc. RNDr. Přemysl Kolorenč, Ph.D.
+
+### Poznámky
+Ručně psané poznámky z přípravy na zkoušku.
+
+- [Matematický aparát termodynamiky](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Poznamky/[NTMF043]%20Poznámky%20-%2001%20Matematika.pdf)
+- [Úvod do termodynamiky a statistické fyziky](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Poznamky/[NTMF043]%20Poznámky%20-%2002%20Úvod%20do%20TD%20a%20SF.pdf)
+- [Termodynamické zákony](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Poznamky/[NTMF043]%20Poznámky%20-%2003%20TD%20Zákony.pdf)
+- [Entropie](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Poznamky/[NTMF043]%20Poznámky%20-%2004%20Entropie.pdf)
+- [Fundamentální rovnice](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Poznamky/[NTMF043]%20Poznámky%20-%2005%20Fundamentální%20rovnice.pdf)
+- [Rovnováha a stabilita](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Poznamky/[NTMF043]%20Poznámky%20-%2006%20Rovnováha%20a%20stabilita.pdf)
+- [Fázové přechody](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Poznamky/[NTMF043]%20Poznámky%20-%2007%20Fázové%20přechody.pdf)
+- [Základy statistické fyziky](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Poznamky/[NTMF043]%20Poznámky%20-%2008%20Statistická%20fyzika.pdf)
+
+### Domácí úkoly
+Spočítané domácí úkoly.
+
+- [Domácí úkol 1](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Ukoly/[NTMF043]%20Domácí%20úkol%201.pdf) - Chladicí vůz
+- [Domácí úkol 2](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Ukoly/[NTMF043]%20Domácí%20úkol%202.pdf) - Výroba kyslíku
+- [Domácí úkol 3](BcFyzika/[NTMF043]%20Termodynamika%20a%20statistická%20fyzika%20I/Ukoly/[NTMF043]%20Domácí%20úkol%203.pdf) - Tlak směsi ideálních plynů, Redukce derivace
 
 ---
 
