@@ -25,6 +25,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY070] Proseminář z teoretické fyziky](#nofy070-proseminář-z-teoretické-fyziky)
 - [[NOFY076] Kvantová teorie I](#nofy076-kvantová-teorie-i)
+- [[NOFY079] Kvantová teorie II](#nofy079-kvantová-teorie-ii)
 - [[NOFY125] Atomová fyzika a elektronová struktura látek](#nofy125-atomová-fyzika-a-elektronová-struktura-látek)
 - [[NOFY126] Klasická elektrodynamika](#nofy126-klasická-elektrodynamika)
 - [[NOFY127] Úvod do kvantové mechaniky](#nofy127-úvod-do-kvantové-mechaniky)
@@ -207,6 +208,38 @@ Vypracované domácí úkoly z cvičení.
 - [Domácí úkol 10](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%2010.pdf) - Ramseyův přístroj pro spin 1
 - [Domácí úkol 11](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%2011.pdf) - Isotopický posun energie
 - [Domácí úkol 12](BcFyzika/%5BNOFY076%5D%20Kvantov%C3%A1%20teorie%20I/Ukoly/%5BNOFY076%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%2012.pdf) - Zenonův jev pro Ramseyův přístroj
+
+---
+
+## [NOFY079] Kvantová teorie II
+
+**Letní semestr 2023/2024**  
+**Přednášející:** prof. RNDr. Pavel Cejnar, Dr., DSc.  
+**Cvičící:** doc. RNDr. Pavel Stránský, Ph.D.
+
+### Zpracované zkouškové otázky
+Ručně psané zpracování zkouškových otázek.
+
+- [Otázka 1 – Nestacionární poruchová teorie – časově nezávislá porucha](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2001%20NPT%20Nestaciona%CC%81rni%CC%81.pdf)
+- [Otázka 2 – Nestacionární poruchová teorie – periodická porucha](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2002%20NPT%20Periodicka%CC%81.pdf)
+- [Otázka 3 – Lippmann-Schwingerova rovnice](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2003%20SCT%20LSE.pdf)
+- [Otázka 4 – Teorie rozptylu – Bornova aproximace](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2004%20SCT%20Born.pdf)
+- [Otázka 5 – Teorie rozptylu – metoda parciálních vln](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2005%20SCT%20Parcia%CC%81lni%CC%81%20vlny.pdf)
+- [Otázka 6 – Teorie rozptylu – nepružný rozptyl v metodě parciálních vln](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2006%20SCT%20Inelastic.pdf)
+- [Otázka 7 – Sférické tenzory](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2007%20ITO%20Sfe%CC%81ricke%CC%81%20tenzory.pdf)
+- [Otázka 8 – Systémy nerozlišitelných částic – kreační a anihilační operátory](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2008%20MBS%20AK%20Opera%CC%81tory.pdf)
+- [Otázka 9 – Systémy nerozlišitelných částic – „druhé kvantování“](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2009%20MBS%20Druhe%CC%81%20Q.pdf)
+- [Otázka 10 – Systémy nerozlišitelných částic – operátory zachovávající počet částic](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2010%20MBS%20Opera%CC%81tory%20N.pdf)
+- [Otázka 11 – Systémy nerozlišitelných částic – metoda středního pole](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2011%20MBS%20Str%CC%8Cedni%CC%81%20pole.pdf)
+- [Otázka 12 – Systémy nerozlišitelných částic – párování a kvazičástice](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Poznamky/%5BNOFY079%5D%20Pozn%C3%A1mky%20-%2012%20MBS%20Pa%CC%81rova%CC%81ni%CC%81.pdf)
+
+### Domácí úkoly
+Vypracované domácí úkoly z cvičení.
+
+- [Domácí úkol 1](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Ukoly/%5BNOFY079%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%201.pdf) - Dvouhladinový systém s periodickou poruchou
+- [Domácí úkol 2](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Ukoly/%5BNOFY079%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%202.pdf) - Rozptyl nerozlišitelných částic
+- [Domácí úkol 3](BcFyzika/%5BNOFY079%5D%20Kvantov%C3%A1%20teorie%20II/Ukoly/%5BNOFY079%5D%20Dom%C3%A1c%C3%AD%20%C3%BAkol%203.pdf) - Interakce způsobená nerozlišitelností částic
+
 ---
 
 ## [NOFY125] Atomová fyzika a elektronová struktura látek
