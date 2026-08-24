@@ -193,6 +193,12 @@ Vypracované protokoly na praktikum.
 - [Úloha XXIV](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20XXIV.pdf) - Teplotní roztažnost pevných látek
 - [Úloha XXVI](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20XXVI.pdf) - Studium kmitů struny
 
+### Galerie náčrtků
+
+V rámci přípravy protokolů vznikla série náčrtků a schémat k jednotlivým experimentům. Všechny tyto obrázky naleznete v Katalogu náčrtků.
+
+- [Katalog náčrtků (PNG)](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/Nacrtky_Galerie/Katalog_nacrtku.md)
+
 ---
 
 ## [NOFY070] Proseminář z teoretické fyziky
