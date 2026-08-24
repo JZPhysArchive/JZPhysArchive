@@ -23,6 +23,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY022] Optika](#nofy022-optika)
 - [[NOFY023] Speciální teorie relativity](#nofy023-speciální-teorie-relativity)
 - [[NOFY024] Praktikum II - Elektřina a magnetismus](#nofy024-praktikum-ii---elektřina-a-magnetismus)
+- [[NOFY029] Jaderná a částicová fyzika](#nofy029-jaderná-a-částicová-fyzika)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY066] Praktikum I - Mechanika a molekulová fyzika](#nofy066-praktikum-i---mechanika-a-molekulová-fyzika)
 - [[NOFY070] Proseminář z teoretické fyziky](#nofy070-proseminář-z-teoretické-fyziky)
@@ -158,6 +159,35 @@ Vypracované protokoly na praktikum.
 ### Galerie schémat
 
 V rámci přípravy protokolů vznikla série elektrických schémat nakreslených v LaTeXu pomocí balíčku `circuitikz`. Všechna schémata (včetně zdrojových kódů a zkompilovaných PDF náhledů) naleznete v [Katalogu obvodů](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/Circuitikz_Galerie/Katalog_obvodu.md).
+
+---
+
+## [NOFY029] Jaderná a částicová fyzika
+
+**Zimní semestr 2023/2024**  
+**Přednášející:** prof. RNDr. Rupert Leitner, DrSc.  
+### Poznámky
+Ručně zpracované otázky ke zkoušce.
+
+#### Jaderná fyzika
+- [JF 1. Měření rozměrů jader](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20JF%201.%20Měření%20rozměrů%20jader.pdf)
+- [JF 2. Hmoty jader a vazbová energie. Kapkový model jádra, empirická hmotová formule, údolí stability](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20JF%202.%20Hmoty%20jader%20a%20vazbová%20energie.pdf)
+- [JF 3. Neutron, jaderné síly a jaderný potenciál](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20JF%203.%20Neutron,%20jaderné%20síly%20a%20jaderný%20potenciál.pdf)
+- [JF 4. Slupkový model jádra, magická čísla, spin a parita základních stavů jader](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20JF%204.%20Slupkový%20model%20jádra,%20magická%20čísla.pdf)
+- [JF 5. Alfa, beta a gama rozpady jader](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20JF%205.%20Alfa,%20beta%20a%20gama%20rozpady%20jader.pdf)
+- [JF 6. Využití radiace pro datování](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20JF%206.%20Využití%20radiace%20pro%20datování.pdf)
+- [JF 7. Využití radiace v lékařství, interakce záření s prostředím](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20JF%207.%20Využití%20radiace%20v%20lékařství,%20interakce%20záření%20s%20prostředím.pdf)
+- [JF 8. Štěpení a fúze jader, využití pro výrobu energie](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20JF%208.%20Štěpení%20a%20fúze%20jader,%20využití%20pro%20výrobu%20energie.pdf)
+
+#### Částicová fyzika
+- [ČF 1. Objev "nových" částic v kosmickém záření](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20ČF%201.%20Objev%20nových%20částic%20v%20kosmickém%20záření.pdf)
+- [ČF 2. Kvarkový model mezonů a baryonů. Oktet pseudoskalárních mezonů. Oktet a dekuplet nejlehčích baryonů](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20ČF%202.%20Kvarkový%20model%20mezonů%20a%20baryonů.pdf)
+- [ČF 3. Těžké kvarky c, b a t](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20ČF%203.%20Těžké%20kvarky%20c,%20b%20a%20t.pdf)
+- [ČF 4. Interakce elementárních částic. Slabá interakce. Sjednocení slabé a elektromagnetické interakce. Intermediální bosony W a Z](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20ČF%204.%20Interakce%20elementárních%20částic.pdf)
+- [ČF 5. Nezachování P a CP ve slabých interakcích, oscilace K0 mezonů](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20ČF%205.%20Nezachování%20P%20a%20CP%20ve%20slabých%20interakcích.pdf)
+- [ČF 6. Silná interakce. Kvarky, gluony a barevná interakce. Struktura protonu](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20ČF%206.%20Silná%20interakce.pdf)
+- [ČF 7. Leptony, neutrina, oscilace neutrin](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20ČF%207.%20Leptony,%20neutrina,%20oscilace%20neutrin.pdf)
+- [ČF 8. Higgsův boson. Současné problémy a experimenty v částicové fyzice](BcFyzika/[NOFY029]%20Jaderná%20a%20částicová%20fyzika/Poznamky/[NOFY029]%20Poznámky%20-%20ČF%208.%20Higgsův%20boson.pdf)
 
 ---
 
