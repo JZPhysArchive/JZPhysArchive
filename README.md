@@ -41,7 +41,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 ### 🎓 Mgr. Teoretická fyzika
 
-> *Zatím žádné kurzy — budou přidávány průběžně.*
+- [[NTMF044] Termodynamika a statistická fyzika II](#ntmf044-termodynamika-a-statistická-fyzika-ii)
 
 ---
 
@@ -674,6 +674,57 @@ Ručně psané zpracování zkouškových otázek.
 
 # 🎓 Mgr. Teoretická fyzika
 
+
+
+## [NTMF044] Termodynamika a statistická fyzika II
+
+**Letní semestr 2024/2025**  
+**Přednášející:** RNDr. Karel Netočný, Ph.D.  
+**Cvičící:** prof. RNDr. Tomáš Novotný, Ph.D. a RNDr. Martin Žonda, Ph.D.
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku.
+
+#### I Pravděpodobnostní popis systému
+- [I.1 Klasické pravděpodobnostní modely](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20I.1%20Klasické%20pravděpodobnostní%20modely.pdf)
+- [I.2 Limitní věty](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20I.2%20Limitní%20věty.pdf)
+- [I.3 Kvantové modely](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20I.3%20Kvantové%20modely.pdf)
+- [I.4 Klasická aproximace kvantového stavu](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20I.4%20Klasická%20aproximace%20kvantového%20stavu.pdf)
+- [I.5 Statistická entropie](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20I.5%20Statistická%20entropie.pdf)
+
+#### II Rovnovážné statistické soubory
+- [II.1 Klasická ergodická teorie](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20II.1%20Klasická%20ergodická%20teorie.pdf)
+- [II.2 Kvantová analogie ergodické hypotézy](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20II.2%20Kvantová%20analogie%20ergodické%20hypotézy.pdf)
+- [II.3 Mikrokanonický soubor](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20II.3%20Mikrokanonický%20soubor.pdf)
+- [II.4 Kanonický soubor](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20II.4%20Kanonický%20soubor.pdf)
+- [II.5 Termodynamika jako důsledek statistická fyzika](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20II.5%20Termodynamika%20jako%20důsledek%20statistická%20fyzika.pdf)
+- [II.6 Ekvivalence mikrokanonického a kanonického souboru](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20II.6%20Ekvivalence%20mikrokanonického%20a%20kanonického%20souboru.pdf)
+- [II.7 Grandkanonický soubor](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20II.7%20Grandkanonický%20soubor.pdf)
+- [II.8 Gibbsovy soubory a teorie fluktuací](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20II.8%20Gibbsovy%20soubory%20a%20teorie%20fluktuací.pdf)
+
+#### III Ideální kvantové plyny
+- [III.1 Reprezentace obsazovacích čísel](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20III.1%20Reprezentace%20obsazovacích%20čísel.pdf)
+- [III.2 Statistika kvantových plynů](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20III.2%20Statistika%20kvantových%20plynů.pdf)
+- [III.3 Termodynamika kvantových plynů](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20III.3%20Termodynamika%20kvantových%20plynů.pdf)
+- [III.4 Klasická limita a kvantové korekce](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20III.4%20Klasická%20limita%20a%20kvantové%20korekce.pdf)
+- [III.5 Bose-Einsteinova kondenzace](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20III.5%20Bose-Einsteinova%20kondenzace.pdf)
+- [III.6 Degenerovaný Fermiho plyn](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20III.6%20Degenerovaný%20Fermiho%20plyn.pdf)
+- [III.7 Fotonový plyn](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20III.7%20Fotonový%20plyn.pdf)
+
+#### IV Reálné plyny
+- [IV.1 Neinteragující plyn](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20IV.1%20Neinteragující%20plyn%20.pdf)
+- [IV.2 Interagující plyn](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20IV.2%20Interagující%20plyn.pdf)
+
+#### V Fázové přechody
+- [V.1 Isingův model](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Poznamky/[NTMF044]%20Poznámky%20-%20V.1%20Isingův%20model.pdf)
+
+### Úkoly
+Spočítané domácí úkoly z cvičení.
+
+- [Domácí úkol 1](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Ukoly/[NTMF044]%20Úkol%201.pdf)
+- [Jupyter Notebook k úkolu 1](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Ukoly/[NTMF044]%20Úkol%201%20-%20montecarlo.ipynb)
+- [Domácí úkol 2](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Ukoly/[NTMF044]%20Úkol%202.pdf)
+- [Domácí úkol 3](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Ukoly/[NTMF044]%20Úkol%203.pdf)
 
 <!-- COURSES:END -->
 
