@@ -195,9 +195,7 @@ Vypracované protokoly na praktikum.
 
 ### Galerie náčrtků
 
-V rámci přípravy protokolů vznikla série náčrtků a schémat k jednotlivým experimentům. Všechny tyto obrázky naleznete v Katalogu náčrtků.
-
-- [Katalog náčrtků (PNG)](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/Nacrtky_Galerie/Katalog_nacrtku.md)
+V rámci přípravy protokolů vznikla série náčrtků a schémat k jednotlivým experimentům. Všechny tyto obrázky naleznete v [Katalogu náčrtků](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/Nacrtky_Galerie/Katalog_nacrtku.md).
 
 ---
 
