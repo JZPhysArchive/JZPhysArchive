@@ -22,6 +22,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY018] Elektřina a magnetismus](#nofy018-elektřina-a-magnetismus)
 - [[NOFY022] Optika](#nofy022-optika)
 - [[NOFY023] Speciální teorie relativity](#nofy023-speciální-teorie-relativity)
+- [[NOFY024] Praktikum II - Elektřina a magnetismus](#nofy024-praktikum-ii---elektřina-a-magnetismus)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY066] Praktikum I - Mechanika a molekulová fyzika](#nofy066-praktikum-i---mechanika-a-molekulová-fyzika)
 - [[NOFY070] Proseminář z teoretické fyziky](#nofy070-proseminář-z-teoretické-fyziky)
@@ -133,6 +134,26 @@ Ručně psané poznámky k přípravě na zkoušku, rozdělené podle hlavních 
 - [6. Vzhled objektů pohybujících se rychlostí blízkou rychlosti světla](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Vzhled%20objektů.pdf)
 - [7. Variační principy](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Variační%20principy.pdf)
 - [8. Tenzor energie a hybnosti](BcFyzika/[NOFY023]%20Speciální%20teorie%20relativity/Poznamky/[NOFY023]%20Poznámky%20-%20Tenzor%20energie%20a%20hybnosti.pdf)
+
+---
+
+## [NOFY024] Praktikum II - Elektřina a magnetismus
+
+**Zimní semestr 2022/2023**  
+
+### Protokoly z měření
+
+Vypracované protokoly na praktikum.
+
+- [Úloha V](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20V.pdf) - Měření osciloskopem
+- [Úloha VII](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20VII.pdf) - Měření indukčnosti a kapacity metodou přímou
+- [Úloha IX](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20IX.pdf) - Charakteristiky termistoru
+- [Úloha X](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20X.pdf) - Hallův jev
+- [Úloha XI](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20XI.pdf) - Charakteristiky diod
+- [Úloha XVIII](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20XVIII.pdf) - Přechodové jevy v RLC obvodu
+- [Úloha XIX](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20XIX.pdf) - Měření s torzním magnetometrem
+- [Úloha XXI](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20XXI.pdf) - Studium hysterezních smyček feritů
+- [Úloha S-XVIII](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20S-XVIII.pdf) - Simulace přechodových jevů v RLC obvodu
 
 ---
 
