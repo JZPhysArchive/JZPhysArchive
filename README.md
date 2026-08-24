@@ -155,6 +155,10 @@ Vypracované protokoly na praktikum.
 - [Úloha XXI](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20XXI.pdf) - Studium hysterezních smyček feritů
 - [Úloha S-XVIII](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/[NOFY024]%20Úloha%20S-XVIII.pdf) - Simulace přechodových jevů v RLC obvodu
 
+### Galerie schémat
+
+V rámci přípravy protokolů vznikla série elektrických schémat nakreslených v LaTeXu pomocí balíčku `circuitikz`. Všechna schémata (včetně zdrojových kódů a zkompilovaných PDF náhledů) naleznete v [Katalogu obvodů](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/Circuitikz_Galerie/Katalog_obvodu.md).
+
 ---
 
 ## [NOFY055] Úvod do praktické fyziky
