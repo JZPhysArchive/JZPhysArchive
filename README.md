@@ -23,6 +23,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY022] Optika](#nofy022-optika)
 - [[NOFY023] Speciální teorie relativity](#nofy023-speciální-teorie-relativity)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
+- [[NOFY066] Praktikum I - Mechanika a molekulová fyzika](#nofy066-praktikum-i---mechanika-a-molekulová-fyzika)
 - [[NOFY070] Proseminář z teoretické fyziky](#nofy070-proseminář-z-teoretické-fyziky)
 - [[NOFY076] Kvantová teorie I](#nofy076-kvantová-teorie-i)
 - [[NOFY079] Kvantová teorie II](#nofy079-kvantová-teorie-ii)
@@ -146,6 +147,26 @@ Dva vypracované domácí úkoly z předmětu Úvod do praktické fyziky.
 
 - [Domácí úkol 4](BcFyzika/[NOFY055]%20Úvod%20do%20praktické%20fyziky/Ukoly/[NOFY055]%20Domácí%20úkol%204.pdf) - Origin, zpracování měření
 - [Domácí úkol 6](BcFyzika/[NOFY055]%20Úvod%20do%20praktické%20fyziky/Ukoly/[NOFY055]%20Domácí%20úkol%206.pdf) - Normální, Cauchyho rozdělení
+
+---
+
+## [NOFY066] Praktikum I - Mechanika a molekulová fyzika
+
+**Zimní semestr 2021/2022**  
+
+### Protokoly z měření
+
+Vypracované protokoly na praktikum.
+
+- [Úloha II](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20II.pdf) - Studium harmonických kmitů oscilátoru
+- [Úloha III](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20III.pdf) - Studium proudění viskózní kapaliny trubicemi
+- [Úloha VIII](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20VIII.pdf) - Kalibrace odporového teploměru a termočlánku
+- [Úloha IX](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20IX.pdf) - Měření modulu pružnosti v tahu
+- [Úloha XI](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20XI.pdf) - Dynamická zkouška deformace látek v tlaku
+- [Úloha XIV](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20XIV.pdf) - Studium teplotní závislosti povrchového napětí
+- [Úloha XVI](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20XVI.pdf) - Studium Brownova pohybu
+- [Úloha XXIV](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20XXIV.pdf) - Teplotní roztažnost pevných látek
+- [Úloha XXVI](BcFyzika/[NOFY066]%20Praktikum%20I%20-%20Mechanika%20a%20molekulová%20fyzika/Praktika/[NOFY066]%20Úloha%20XXVI.pdf) - Studium kmitů struny
 
 ---
 
