@@ -23,6 +23,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NOFY022] Optika](#nofy022-optika)
 - [[NOFY023] Speciální teorie relativity](#nofy023-speciální-teorie-relativity)
 - [[NOFY024] Praktikum II - Elektřina a magnetismus](#nofy024-praktikum-ii---elektřina-a-magnetismus)
+- [[NOFY028] Praktikum III - Optika](#nofy028-praktikum-iii---optika)
 - [[NOFY029] Jaderná a částicová fyzika](#nofy029-jaderná-a-částicová-fyzika)
 - [[NOFY055] Úvod do praktické fyziky](#nofy055-úvod-do-praktické-fyziky)
 - [[NOFY066] Praktikum I - Mechanika a molekulová fyzika](#nofy066-praktikum-i---mechanika-a-molekulová-fyzika)
@@ -159,6 +160,30 @@ Vypracované protokoly na praktikum.
 ### Galerie schémat
 
 V rámci přípravy protokolů vznikla série elektrických schémat nakreslených v LaTeXu pomocí balíčku `circuitikz`. Všechna schémata (včetně zdrojových kódů a zkompilovaných PDF náhledů) naleznete v [Katalogu obvodů](BcFyzika/[NOFY024]%20Praktikum%20II%20-%20Elektřina%20a%20magnetismus/Praktika/Circuitikz_Galerie/Katalog_obvodu.md).
+
+---
+
+## [NOFY028] Praktikum III - Optika
+
+**Letní semestr 2022/2023**  
+
+### Protokoly z měření
+
+Vypracované protokoly na praktikum.
+
+- [Úloha III](BcFyzika/[NOFY028]%20Praktikum%20III%20-%20Optika/Praktika/[NOFY028]%20Úloha%20III.pdf) - Mřížkový spektrometr
+- [Úloha IV](BcFyzika/[NOFY028]%20Praktikum%20III%20-%20Optika/Praktika/[NOFY028]%20Úloha%20IV.pdf) - Fotometrie a radiometrie
+- [Úloha VI](BcFyzika/[NOFY028]%20Praktikum%20III%20-%20Optika/Praktika/[NOFY028]%20Úloha%20VI.pdf) - Studium ohybových jevů v laserovém svazku
+- [Úloha VII](BcFyzika/[NOFY028]%20Praktikum%20III%20-%20Optika/Praktika/[NOFY028]%20Úloha%20VII.pdf) - Ověření Fresnelových vzorců
+- [Úloha IX](BcFyzika/[NOFY028]%20Praktikum%20III%20-%20Optika/Praktika/[NOFY028]%20Úloha%20IX.pdf) - Měření indexu lomu refraktometry
+- [Úloha XIX](BcFyzika/[NOFY028]%20Praktikum%20III%20-%20Optika/Praktika/[NOFY028]%20Úloha%20XIX.pdf) - Měření indexu lomu Jaminovým interferometrem
+- [Úloha XX](BcFyzika/[NOFY028]%20Praktikum%20III%20-%20Optika/Praktika/[NOFY028]%20Úloha%20XX.pdf) - Michelsonův interferometr
+- [Úloha XXVII](BcFyzika/[NOFY028]%20Praktikum%20III%20-%20Optika/Praktika/[NOFY028]%20Úloha%20XXVII.pdf) - Kerrův jev v pevné látce
+- [Úloha XXX](BcFyzika/[NOFY028]%20Praktikum%20III%20-%20Optika/Praktika/[NOFY028]%20Úloha%20XXX.pdf) - Jednoduché aplikace interferenčních jevů
+
+### Galerie náčrtků
+
+V rámci přípravy protokolů vznikla série náčrtků a schémat k jednotlivým experimentům. Všechny tyto obrázky naleznete v [Katalogu náčrtků](BcFyzika/[NOFY028]%20Praktikum%20III%20-%20Optika/Praktika/Nacrtky_Galerie/Katalog_Nacrtku.md).
 
 ---
 
