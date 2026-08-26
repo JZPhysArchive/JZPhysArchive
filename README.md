@@ -45,6 +45,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 ### 🎓 Mgr. Teoretická fyzika
 
+- [[NJSF145] Kvantová teorie pole I](#njsf145-kvantová-teorie-pole-i)
 - [[NTMF044] Termodynamika a statistická fyzika II](#ntmf044-termodynamika-a-statistická-fyzika-ii)
 
 ---
@@ -779,7 +780,40 @@ Ručně psané zpracování zkouškových otázek.
 
 # 🎓 Mgr. Teoretická fyzika
 
+## [NJSF145] Kvantová teorie pole I
 
+**Zimní semestr 2024/2025**  
+**Přednášející:** RNDr. Jiří Novotný, CSc.  
+**Cvičící:** Mgr. Petr Vaško, Ph.D.
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku.
+
+- [Konvence](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Konvence.pdf)
+- [Motivace](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Motivace.pdf)
+- [Symetrie](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Symetrie.pdf)
+- [Lorentzova grupa](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Lorentzova%20grupa.pdf)
+- [Poincarého algebra](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Poincar%C3%A9ho%20algebra.pdf)
+- [Reprezentace Lieovy grupy](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Reprezentace%20Lieovy%20grupy.pdf)
+- [Diracovy matice](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Diracovy%20matice.pdf)
+- [Volné skalární pole](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Voln%C3%A9%20skal%C3%A1rn%C3%AD%20pole.pdf)
+- [Kanonické kvantování](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Kanonick%C3%A9%20kvantov%C3%A1n%C3%AD.pdf)
+- [Klasická teorie pole](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Klasick%C3%A1%20teorie%20pole.pdf)
+- [Kanonické kvantování Klasického pole](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Kanonick%C3%A9%20kvantov%C3%A1n%C3%AD%20Klasicke%20pole.pdf)
+- [Interagující pole](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20Interaguj%C3%ADc%C3%AD%20pole.pdf)
+- [Částice se spinem](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Poznamky/%5BNJSF145%5D%20Poznamky%20-%20%C4%8C%C3%A1stice%20se%20spinem.pdf)
+
+### Úkoly
+Zpracované domácí úkoly z cvičení.
+
+- [Domácí úkol 1](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Ukoly/%5BNJSF145%5D%20Homework%201.pdf) - Classical field theory
+- [Domácí úkol 2](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Ukoly/%5BNJSF145%5D%20Homework%202.pdf) - Lorentz group and Poincaré group
+- [Domácí úkol 3](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Ukoly/%5BNJSF145%5D%20Homework%203.pdf) - Representation of Lorentz group
+- [Domácí úkol 4](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Ukoly/%5BNJSF145%5D%20Homework%204.pdf) - Free scalar field
+- [Domácí úkol 5](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Ukoly/%5BNJSF145%5D%20Homework%205.pdf) - Noether's theorem
+- [Domácí úkol 6](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Ukoly/%5BNJSF145%5D%20Homework%206.pdf) - Interacting fields
+
+---
 
 ## [NTMF044] Termodynamika a statistická fyzika II
 
