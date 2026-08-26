@@ -46,6 +46,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 ### 🎓 Mgr. Teoretická fyzika
 
 - [[NJSF145] Kvantová teorie pole I](#njsf145-kvantová-teorie-pole-i)
+- [[NJSF146] Kvantová teorie pole II](#njsf146-kvantová-teorie-pole-ii)
 - [[NTMF044] Termodynamika a statistická fyzika II](#ntmf044-termodynamika-a-statistická-fyzika-ii)
 
 ---
@@ -812,6 +813,40 @@ Zpracované domácí úkoly z cvičení.
 - [Domácí úkol 4](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Ukoly/%5BNJSF145%5D%20Homework%204.pdf) - Free scalar field
 - [Domácí úkol 5](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Ukoly/%5BNJSF145%5D%20Homework%205.pdf) - Noether's theorem
 - [Domácí úkol 6](MgrTeoretickaFyzika/%5BNJSF145%5D%20Kvantova%20teorie%20pole%20I/Ukoly/%5BNJSF145%5D%20Homework%206.pdf) - Interacting fields
+
+---
+
+## [NJSF146] Kvantová teorie pole II
+
+**Letní semestr 2024/2025**  
+**Přednášející:** RNDr. Jiří Novotný, CSc.  
+**Cvičící:** Mgr. Petr Vaško, Ph.D.
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku.
+
+- [Částice se spinem](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20%C4%8C%C3%A1stice%20se%20spinem.pdf)
+- [Diracovo pole](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Diracovo%20pole.pdf)
+- [Kanonické kvantování Diracova pole](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Kanonick%C3%A9%20kvantov%C3%A1n%C3%AD%20Diracova%20pole.pdf)
+- [Feynmanova pravidla Diracova pole](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Feynmanova%20pravidla%20Diracova%20pole.pdf)
+- [Yukawova interakce](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Yukawova%20interakce.pdf)
+- [Vektorové pole](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Vektorov%C3%A9%20pole.pdf)
+- [Kanonické kvantování vektorového pole](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Kanonick%C3%A9%20kvantov%C3%A1n%C3%AD%20vektorov%C3%A9ho%20pole.pdf)
+- [Masivní kvantová elektrodynamika](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Masivn%C3%AD%20kvantov%C3%A1%20elektrodynamika.pdf)
+- [Nehmotné částice](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Nehmotn%C3%A9%20%C4%8D%C3%A1stice.pdf)
+- [Kanonické kvantování s helicitou ±1](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Kanonick%C3%A9%20kvantov%C3%A1n%C3%AD%20s%20helicitou%20%C2%B11.pdf)
+- [Kvantová elektrodynamika](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Kvantov%C3%A1%20elektrodynamika.pdf)
+- [Renormalizace](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Poznamky/%5BNJSF146%5D%20Poznamky%20-%20Renormalizace.pdf)
+
+### Úkoly
+Zpracované domácí úkoly z cvičení.
+
+- [Domácí úkol 1](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Ukoly/%5BNJSF146%5D%20Homework%201.pdf) - Dirac spinor fields
+- [Domácí úkol 2](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Ukoly/%5BNJSF146%5D%20Homework%202.pdf) - Global symmetries of fermion fields
+- [Domácí úkol 3](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Ukoly/%5BNJSF146%5D%20Homework%203.pdf) - Crossing symmetry
+- [Domácí úkol 4](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Ukoly/%5BNJSF146%5D%20Homework%204.pdf) - Massless vector
+- [Domácí úkol 5](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Ukoly/%5BNJSF146%5D%20Homework%205.pdf) - QED: Compton scattering
+- [Domácí úkol 6](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Ukoly/%5BNJSF146%5D%20Homework%206.pdf) - Structure of UV divergencies and renormalization
 
 ---
 
