@@ -47,6 +47,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 - [[NJSF145] Kvantová teorie pole I](#njsf145-kvantová-teorie-pole-i)
 - [[NJSF146] Kvantová teorie pole II](#njsf146-kvantová-teorie-pole-ii)
+- [[NTMF021] Simulace ve fyzice mnoha částic](#ntmf021-simulace-ve-fyzice-mnoha-částic)
 - [[NTMF044] Termodynamika a statistická fyzika II](#ntmf044-termodynamika-a-statistická-fyzika-ii)
 
 ---
@@ -847,6 +848,37 @@ Zpracované domácí úkoly z cvičení.
 - [Domácí úkol 4](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Ukoly/%5BNJSF146%5D%20Homework%204.pdf) - Massless vector
 - [Domácí úkol 5](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Ukoly/%5BNJSF146%5D%20Homework%205.pdf) - QED: Compton scattering
 - [Domácí úkol 6](MgrTeoretickaFyzika/%5BNJSF146%5D%20Kvantova%20teorie%20pole%20II/Ukoly/%5BNJSF146%5D%20Homework%206.pdf) - Structure of UV divergencies and renormalization
+
+---
+
+## [NTMF021] Simulace ve fyzice mnoha částic
+
+**Zimní semestr 2025/2026**  
+**Přednášející:** doc. RNDr. Karel Houfek, Ph.D., doc. RNDr. Milan Předota, Ph.D.
+
+### Poznámky
+Ručně zpracované otázky ke zkoušce.
+
+- [1. Monte Carlo](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%201.%20Monte%20Carlo.pdf)
+- [2. Markovovy řetězce](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%202.%20Markovovy%20řetězce.pdf)
+- [3. Termodynamické Monte Carlo](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%203.%20Termodynamické%20Monte%20Carlo.pdf)
+- [4. Geometrické Monte Carlo](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%204.%20Geometrické%20Monte%20Carlo.pdf)
+- [5. Kinetické Monte Carlo](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%205.%20Kinetické%20Monte%20Carlo.pdf)
+- [6. Celulární automaty](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%206.%20Celulární%20automaty.pdf)
+- [7. Integrátory](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%207.%20Integrátory.pdf)
+- [8. Radiální distribuční funkce](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%208.%20Radiální%20distribuční%20funkce.pdf)
+- [9. Termostating](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%209.%20Termostating.pdf)
+- [10. Barostating a NpT](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%2010.%20Barostating%20a%20NpT.pdf)
+- [11. Potenciály](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%2011.%20Potenciály.pdf)
+- [12. Technické Monte Carlo](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%2012.%20Technické%20Monte%20Carlo.pdf)
+- [13. Vzorkování](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Poznamky/[NTMF021]%20Poznámky%20-%2013.%20Vzorkování.pdf)
+
+### Úkoly
+Zpracované domácí úkoly.
+
+- [Domácí úkol 1](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Ukoly/[NTMF021]%20Domácí%20úkol%201.pdf)
+- [Domácí úkol 2](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Ukoly/[NTMF021]%20Domácí%20úkol%202.pdf)
+- [Domácí úkol 3](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Ukoly/[NTMF021]%20Domácí%20úkol%203.pdf)
 
 ---
 
