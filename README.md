@@ -49,6 +49,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NJSF145] Kvantová teorie pole I](#njsf145-kvantová-teorie-pole-i)
 - [[NJSF146] Kvantová teorie pole II](#njsf146-kvantová-teorie-pole-ii)
 - [[NTMF021] Simulace ve fyzice mnoha částic](#ntmf021-simulace-ve-fyzice-mnoha-částic)
+- [[NTMF030] Kvantová teorie rozptylu](#ntmf030-kvantová-teorie-rozptylu)
 - [[NTMF037] Relativistická fyzika I](#ntmf037-relativistická-fyzika-i)
 - [[NTMF044] Termodynamika a statistická fyzika II](#ntmf044-termodynamika-a-statistická-fyzika-ii)
 
@@ -901,6 +902,30 @@ Zpracované domácí úkoly.
 - [Domácí úkol 1](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Ukoly/[NTMF021]%20Domácí%20úkol%201.pdf)
 - [Domácí úkol 2](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Ukoly/[NTMF021]%20Domácí%20úkol%202.pdf)
 - [Domácí úkol 3](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Ukoly/[NTMF021]%20Domácí%20úkol%203.pdf)
+
+---
+
+## [NTMF030] Kvantová teorie rozptylu
+
+**Zimní semestr 2024/2025**  
+**Přednášející:** Mgr. Zdeněk Mašín, Ph.D.  
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku.
+
+- [1. Klasická teorie rozptylu](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2001%20Klasická%20teorie%20rozptylu.pdf)
+- [2. WKB aproximace](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2002%20WKB%20aproximace.pdf)
+- [3. Formální teorie rozptylu](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2003%20Formální%20teorie%20rozptylu.pdf)
+- [4. Účinný průřez z $S$-matice](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2004%20Účinný%20průřez%20z%20S-matice.pdf)
+- [5. Principy invariance](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2005%20Principy%20invariance.pdf)
+- [6. Greenův a $T$ operátor](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2006%20Greenův%20a%20T%20operátor.pdf)
+- [7. Stacionární rozptylové stavy](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2007%20Stacionární%20rozptylové%20stavy.pdf)
+- [8. Bornova řada](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2008%20Bornova%20řada.pdf)
+- [9. Parciální vlny](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2009%20Parciální%20vlny.pdf)
+- [10. Analytické vlastnosti $S$-matice](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2010%20Analytické%20vlastnosti%20S-matice.pdf)
+- [11. Variační principy v teorii rozptylu](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2011%20Variační%20principy%20v%20teorii%20rozptylu.pdf)
+- [12. $R$-maticová metoda](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2012%20R-maticová%20metoda.pdf)
+- [13. Teorie kvantového defektu](MgrTeoretickaFyzika/[NTMF030]%20Kvantová%20teorie%20rozptylu/Poznamky/[NTMF030]%20Poznámky%20-%2013%20Teorie%20kvantového%20defektu.pdf)
 
 ---
 
