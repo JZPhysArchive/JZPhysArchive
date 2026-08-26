@@ -45,6 +45,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 ### 🎓 Mgr. Teoretická fyzika
 
+- [[NFPL108] Teorie kondenzovaného stavu I](#nfpl108-teorie-kondenzovaného-stavu-i)
 - [[NJSF145] Kvantová teorie pole I](#njsf145-kvantová-teorie-pole-i)
 - [[NJSF146] Kvantová teorie pole II](#njsf146-kvantová-teorie-pole-ii)
 - [[NTMF021] Simulace ve fyzice mnoha částic](#ntmf021-simulace-ve-fyzice-mnoha-částic)
@@ -781,6 +782,26 @@ Ručně psané zpracování zkouškových otázek.
 ---
 
 # 🎓 Mgr. Teoretická fyzika
+
+## [NFPL108] Teorie kondenzovaného stavu I
+
+**Letní semestr 2024/2025**  
+**Přednášející:** prof. Pavel Lipavský, CSc.  
+
+### Poznámky
+Ručně psané poznámky k předmětu.
+
+- [1. Úvod](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%201.%20Úvod.pdf)
+- [2. Základní formulace](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%202.%20Základní%20formulace.pdf)
+- [3. Kmity atomů v molekule](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%203.%20Kmity%20atomů%20v%20molekule.pdf)
+- [4. Kmity krystalické mřížky](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%204.%20Kmity%20krystalické%20mřížky.pdf)
+- [5. Fonony](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%205.%20Fonony.pdf)
+- [6. Elektronová pásová struktura](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%206.%20Elektronová%20pásová%20struktura.pdf)
+- [7. Model volných elektronů](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%207.%20Model%20volných%20elektronů.pdf)
+- [8. Magnetické vlastnosti volných elektronů](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%208.%20Magnetické%20vlastnosti%20volných%20elektronů.pdf)
+- [9. Peierlsova nestabilita](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%209.%20Peierlsova%20nestabilita.pdf)
+
+---
 
 ## [NJSF145] Kvantová teorie pole I
 
