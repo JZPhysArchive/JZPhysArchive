@@ -49,6 +49,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 - [[NJSF145] Kvantová teorie pole I](#njsf145-kvantová-teorie-pole-i)
 - [[NJSF146] Kvantová teorie pole II](#njsf146-kvantová-teorie-pole-ii)
 - [[NTMF021] Simulace ve fyzice mnoha částic](#ntmf021-simulace-ve-fyzice-mnoha-částic)
+- [[NTMF037] Relativistická fyzika I](#ntmf037-relativistická-fyzika-i)
 - [[NTMF044] Termodynamika a statistická fyzika II](#ntmf044-termodynamika-a-statistická-fyzika-ii)
 
 ---
@@ -789,7 +790,7 @@ Ručně psané zpracování zkouškových otázek.
 **Přednášející:** prof. Pavel Lipavský, CSc.  
 
 ### Poznámky
-Ručně psané poznámky k předmětu.
+Ručně psané poznámky k přípravě na zkoušku.
 
 - [1. Úvod](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%201.%20Úvod.pdf)
 - [2. Základní formulace](MgrTeoretickaFyzika/[NFPL108]%20Teorie%20kondenzovaného%20stavu%20I/Poznamky/[NFPL108]%20Poznámky%20-%202.%20Základní%20formulace.pdf)
@@ -900,6 +901,31 @@ Zpracované domácí úkoly.
 - [Domácí úkol 1](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Ukoly/[NTMF021]%20Domácí%20úkol%201.pdf)
 - [Domácí úkol 2](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Ukoly/[NTMF021]%20Domácí%20úkol%202.pdf)
 - [Domácí úkol 3](MgrTeoretickaFyzika/[NTMF021]%20Simulace%20ve%20fyzice%20mnoha%20částic/Ukoly/[NTMF021]%20Domácí%20úkol%203.pdf)
+
+---
+
+## [NTMF037] Relativistická fyzika I
+
+**Zimní semestr 2024/2025**  
+**Přednášející:** doc. RNDr. Oldřich Semerák, DSc.  
+**Cvičící:** Dr. rer. nat. Mgr. Vojtěch Witzany
+
+### Poznámky
+Ručně psané poznámky k přípravě na zkoušku.
+
+- [1. Schwarzschildovo řešení](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2001%20Schwarzschildovo%20řešení.pdf)
+- [2. Reissner-Nordströmovo řešení](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2002%20Reissner-Nordströmovo%20řešení.pdf)
+- [3. Kerrovo řešení](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2003%20Kerrovo%20řešení.pdf)
+- [4. Gravitační kolaps a černé díry](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2004%20Gravitační%20kolaps%20a%20černé%20díry.pdf)
+- [5. Relativistické modely hvězd](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2005%20Relativistické%20modely%20hvězd.pdf)
+- [6. Degenerovaný fermionový plyn a finální etapy hvězdného vývoje](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2006%20Degenerovaný%20fermionový%20plyn%20a%20finální%20etapy%20hvězdného%20vývoje.pdf)
+- [7. Variační odvození Einsteinových rovnic](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2007%20Variační%20odvození%20Einsteinových%20rovnic.pdf)
+- [8. Posun pericentra a ohyb světla ve Schwarzschildově řešení](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2008%20Posun%20pericentra%20a%20ohyb%20světla%20ve%20Schwarzschildově%20řešení.pdf)
+- [9. Carterovy rovnice](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2009%20Carterovy%20rovnice.pdf)
+- [10. Paralelní přenos axiomaticky](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2010%20Paralelní%20přenos%20axiomaticky.pdf)
+- [11. Ekvivalentní kritéria křivosti prostoročasu](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2011%20Ekvivalentní%20kritéria%20křivosti%20prostoročasu.pdf)
+- [12. Linearizované teorie gravitace a gravitační vlny](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2012%20Linearizované%20teorie%20gravitace%20a%20gravitační%20vlny.pdf)
+- [13. Fermi-Walkerův přenos](MgrTeoretickaFyzika/[NTMF037]%20Relativistická%20fyzika%20I/Poznamky/[NTMF037]%20Poznámky%20-%2013%20Fermi-Walkerův%20přenos.pdf)
 
 ---
 
