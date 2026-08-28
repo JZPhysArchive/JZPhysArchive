@@ -16,6 +16,9 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 ## 📖 Obsah
 
+### 🎓 Státní závěrečné zkoušky
+- [[NSZF041] Obecná fyzika](#nszf041-obecná-fyzika)
+
 ### 🎓 Bc. Fyzika
 
 - [[NOFY003] Teoretická mechanika](#nofy003-teoretická-mechanika)
@@ -780,6 +783,135 @@ Ručně psané zpracování zkouškových otázek.
 - [Otázka 12](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%2012.pdf)
 - [Otázka 13](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%2013.pdf)
 - [Otázka 14](BcFyzika/[NMAF006]%20Vybrané%20partie%20z%20matematiky%20pro%20fyziky/Zpracovane%20otazky/[NMAF006]%20Otázka%2014.pdf)
+
+---
+
+## [NSZF041] Obecná fyzika
+
+**Letní semestr 2023/2024**  
+**Komise:** předsedaná prof. Malým  
+### Poznámky
+Ručně psané zpracování státnicových otázek.
+
+#### 1. Mechanika hmotných bodů
+- [1.1 Základní kinematické veličiny, Newtonovy pohybové zákony](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/1.%20Mechanika%20hmotných%20bodů/[NSZF041]%20Otázka%201.1%20-%20Základní%20kinematické%20veličiny,%20Newtonovy%20pohybové%20zákony.pdf)
+- [1.2 Inerciální a neinerciální soustavy](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/1.%20Mechanika%20hmotných%20bodů/[NSZF041]%20Otázka%201.2%20-%20Inerciální%20a%20neinerciální%20soustavy.pdf)
+- [1.3 První a druhá impulzová věta](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/1.%20Mechanika%20hmotných%20bodů/[NSZF041]%20Otázka%201.3%20-%20První%20a%20druhá%20impulzová%20věta.pdf)
+- [1.4 Keplerovy zákony](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/1.%20Mechanika%20hmotných%20bodů/[NSZF041]%20Otázka%201.4%20-%20Keplerovy%20zákony.pdf)
+- [1.5 Harmonický oscilátor](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/1.%20Mechanika%20hmotných%20bodů/[NSZF041]%20Otázka%201.5%20-%20Harmonický%20oscilátor.pdf)
+- [1.6 Pohyb s vazbami, d'Alembertův princip](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/1.%20Mechanika%20hmotných%20bodů/[NSZF041]%20Otázka%201.6%20-%20Pohyb%20s%20vazbami,%20d'Alembertův%20princip.pdf)
+- [1.7 Lagrangeovy rovnice 2. druhu](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/1.%20Mechanika%20hmotných%20bodů/[NSZF041]%20Otázka%201.7%20-%20Lagrangeovy%20rovnice%202.%20druhu.pdf)
+- [1.8 Hamiltonovy kanonické rovnice a Poissonovy závorky](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/1.%20Mechanika%20hmotných%20bodů/[NSZF041]%20Otázka%201.8%20-%20Hamiltonovy%20kanonické%20rovnice%20a%20Poissonovy%20závorky.pdf)
+- [1.9 Hamiltonův variační princip](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/1.%20Mechanika%20hmotných%20bodů/[NSZF041]%20Otázka%201.9%20-%20Hamiltonův%20variační%20princip.pdf)
+
+#### 2. Mechanika tuhého tělesa
+- [2.1 Eulerovy úhly a Eulerovy kinematické rovnice](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/2.%20Mechanika%20tuhého%20tělesa/[NSZF041]%20Otázka%202.1%20-%20Eulerovy%20úhly%20a%20Eulerovy%20kinematické%20rovnice.pdf)
+- [2.2 Tenzor setrvačnosti](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/2.%20Mechanika%20tuhého%20tělesa/[NSZF041]%20Otázka%202.2%20-%20Tenzor%20setrvačnosti.pdf)
+- [2.3 Eulerovy dynamické rovnice, pohyb jednoduchých setrvačníků](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/2.%20Mechanika%20tuhého%20tělesa/[NSZF041]%20Otázka%202.3%20-%20Eulerovy%20dynamické%20rovnice,%20pohyb%20jednoduchých%20setrvačníků.pdf)
+
+#### 3. Mechanika kontinua
+- [3.1 Tenzor napětí a deformace, Hookův zákon](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/3.%20Mechanika%20kontinua/[NSZF041]%20Otázka%203.1%20-%20Tenzor%20napětí%20a%20deformace,%20Hookův%20zákon.pdf)
+- [3.2 Rovnice struny a její řešení](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/3.%20Mechanika%20kontinua/[NSZF041]%20Otázka%203.2%20-%20Rovnice%20struny%20a%20její%20řešení.pdf)
+- [3.3 Pohybová rovnice ideální tekutiny, rovnice kontinuity, Bernoulliova rovnice](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/3.%20Mechanika%20kontinua/[NSZF041]%20Otázka%203.3%20-%20Pohybová%20rovnice%20ideální%20tekutiny,%20rovnice%20kontinuity,%20Bernoulliova%20rovnice.pdf)
+- [3.4 Viskózní tekutiny, Navierovy-Stokesovy rovnice, laminární a turbulentní proudění](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/3.%20Mechanika%20kontinua/[NSZF041]%20Otázka%203.4%20-%20Viskózní%20tekutiny,%20Navierovy-Stokesovy%20rovnice,%20laminární%20a%20turbulentní%20proudění.pdf)
+
+#### 4. Speciální teorie relativity
+- [4.1 Otázka éteru a Michelsonův-Morleyův experiment](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/4.%20Speciální%20teorie%20relativity/[NSZF041]%20Otázka%204.1%20-%20Otázka%20éteru%20a%20Michelsonův-Morleyův%20experiment.pdf)
+- [4.2 Výchozí principy teorie relativity, Lorentzova transformace](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/4.%20Speciální%20teorie%20relativity/[NSZF041]%20Otázka%204.2%20-%20Výchozí%20principy%20teorie%20relativity,%20Lorentzova%20transformace.pdf)
+- [4.3 Minkowského prostoročas, světelný kužel](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/4.%20Speciální%20teorie%20relativity/[NSZF041]%20Otázka%204.3%20-%20Minkowského%20prostoročas,%20světelný%20kužel.pdf)
+- [4.4 Relativistická pohybová rovnice, ekvivalence hmotnosti a energie](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/4.%20Speciální%20teorie%20relativity/[NSZF041]%20Otázka%204.4%20-%20Relativistická%20pohybová%20rovnice,%20ekvivalence%20hmotnosti%20a%20energie.pdf)
+- [4.5 Maxwellovy rovnice ve čtyřrozměrném formalizmu](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/4.%20Speciální%20teorie%20relativity/[NSZF041]%20Otázka%204.5%20-%20Maxwellovy%20rovnice%20ve%20čtyřrozměrném%20formalizmu.pdf)
+
+#### 5. Termodynamika a statistická fyzika
+- [5.1 Teplo, teplota, tepelná kapacita, tlak](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/5.%20Termodynamika%20a%20statistická%20fyzika/[NSZF041]%20Otázka%205.1%20-%20Teplo,%20teplota,%20tepelná%20kapacita,%20tlak.pdf)
+- [5.2 Vnitřní energie, termodynamické potenciály](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/5.%20Termodynamika%20a%20statistická%20fyzika/[NSZF041]%20Otázka%205.2%20-%20Vnitřní%20energie,%20termodynamické%20potenciály.pdf)
+- [5.3 Hlavní zákony termodynamiky, entropie](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/5.%20Termodynamika%20a%20statistická%20fyzika/[NSZF041]%20Otázka%205.3%20-%20Hlavní%20zákony%20termodynamiky,%20entropie.pdf)
+- [5.4 Ideální plyn, stavová rovnice, Carnotův cyklus](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/5.%20Termodynamika%20a%20statistická%20fyzika/[NSZF041]%20Otázka%205.4%20-%20Ideální%20plyn,%20stavová%20rovnice,%20Carnotův%20cyklus.pdf)
+- [5.5 Fázový prostor, rozdělovací funkce, Liouvilleova rovnice](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/5.%20Termodynamika%20a%20statistická%20fyzika/[NSZF041]%20Otázka%205.5%20-%20Fázový%20prostor,%20rozdělovací%20funkce,%20Liouvilleova%20rovnice.pdf)
+- [5.6 Maxwellovo-Boltzmannovo rozdělení](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/5.%20Termodynamika%20a%20statistická%20fyzika/[NSZF041]%20Otázka%205.6%20-%20Maxwellovo-Boltzmannovo%20rozdělení.pdf)
+- [5.7 Základní statistická rozdělení, statistická entropie](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/5.%20Termodynamika%20a%20statistická%20fyzika/[NSZF041]%20Otázka%205.7%20-%20Základní%20statistická%20rozdělení,%20statistická%20entropie.pdf)
+
+#### 6. Elektrostatika, stacionární elektrické a magnetické pole
+- [6.1 Elektrostatické pole ve vakuu](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/6.%20Elektrostatika,%20stacionární%20elektrické%20a%20magnetické%20pole/[NSZF041]%20Otázka%206.1%20-%20Elektrostatické%20pole%20ve%20vakuu.pdf)
+- [6.2 Elektrostatické pole v přítomnosti vodičů a v dielektrikách](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/6.%20Elektrostatika,%20stacionární%20elektrické%20a%20magnetické%20pole/[NSZF041]%20Otázka%206.2%20-%20Elektrostatické%20pole%20v%20přítomnosti%20vodičů%20a%20v%20dielektrikách.pdf)
+- [6.3 Stacionární elektrické pole a elektrický proud](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/6.%20Elektrostatika,%20stacionární%20elektrické%20a%20magnetické%20pole/[NSZF041]%20Otázka%206.3%20-%20Stacionární%20elektrické%20pole%20a%20elektrický%20proud.pdf)
+- [6.4 Stacionární magnetické pole](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/6.%20Elektrostatika,%20stacionární%20elektrické%20a%20magnetické%20pole/[NSZF041]%20Otázka%206.4%20-%20Stacionární%20magnetické%20pole.pdf)
+- [6.5 Magnetické pole v látkovém prostředí](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/6.%20Elektrostatika,%20stacionární%20elektrické%20a%20magnetické%20pole/[NSZF041]%20Otázka%206.5%20-%20Magnetické%20pole%20v%20látkovém%20prostředí.pdf)
+
+#### 7. Elektrodynamika
+- [7.1 Elektromagnetická indukce](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/7.%20Elektrodynamika/[NSZF041]%20Otázka%207.1%20-%20Elektromagnetická%20indukce.pdf)
+- [7.2 Kvazistacionární elektrické a magnetické pole](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/7.%20Elektrodynamika/[NSZF041]%20Otázka%207.2%20-%20Kvazistacionární%20elektrické%20a%20magnetické%20pole.pdf)
+- [7.3 Elektrické obvody](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/7.%20Elektrodynamika/[NSZF041]%20Otázka%207.3%20-%20Elektrické%20obvody.pdf)
+- [7.4 Maxwellovy rovnice](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/7.%20Elektrodynamika/[NSZF041]%20Otázka%207.4%20-%20Maxwellovy%20rovnice.pdf)
+- [7.5 Elektromagnetické potenciály a jejich vlastnosti](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/7.%20Elektrodynamika/[NSZF041]%20Otázka%207.5%20-%20Elektromagnetické%20potenciály%20a%20jejich%20vlastnosti.pdf)
+- [7.6 Zákony zachování v teorii elektromagnetického pole](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/7.%20Elektrodynamika/[NSZF041]%20Otázka%207.6%20-%20Zákony%20zachování%20v%20teorii%20elektromagnetického%20pole.pdf)
+
+#### 8. Elektromagnetické vlny
+- [8.1 Vlnová rovnice, rovinná elektromagnetická vlna](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/8.%20Elektromagnetické%20vlny/[NSZF041]%20Otázka%208.1%20-%20Vlnová%20rovnice,%20rovinná%20elektromagnetická%20vlna.pdf)
+- [8.2 Polarizační vlastnosti elektromagnetické vlny](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/8.%20Elektromagnetické%20vlny/[NSZF041]%20Otázka%208.2%20-%20Polarizační%20vlastnosti%20elektromagnetické%20vlny.pdf)
+- [8.3 Šíření elektromagnetické vlny v látkovém prostředí](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/8.%20Elektromagnetické%20vlny/[NSZF041]%20Otázka%208.3%20-%20Šíření%20elektromagnetické%20vlny%20v%20látkovém%20prostředí.pdf)
+- [8.4 Odraz a lom elektromagnetických vln na rozhraní dvou prostředí](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/8.%20Elektromagnetické%20vlny/[NSZF041]%20Otázka%208.4%20-%20Odraz%20a%20lom%20elektromagnetických%20vln%20na%20rozhraní%20dvou%20prostředí.pdf)
+- [8.5 Elektromagnetické vlny ve vlnovodech](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/8.%20Elektromagnetické%20vlny/[NSZF041]%20Otázka%208.5%20-%20Elektromagnetické%20vlny%20ve%20vlnovodech.pdf)
+- [8.6 Dipólové elektromagnetické záření](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/8.%20Elektromagnetické%20vlny/[NSZF041]%20Otázka%208.6%20-%20Dipólové%20elektromagnetické%20záření.pdf)
+
+#### 9. Optika
+- [9.1 Interference světla, optické interferometry](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/9.%20Optika/[NSZF041]%20Otázka%209.1%20-%20Interference%20světla,%20optické%20interferometry.pdf)
+- [9.2 Koherence světla](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/9.%20Optika/[NSZF041]%20Otázka%209.2%20-%20Koherence%20světla.pdf)
+- [9.3 Ohyb světla](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/9.%20Optika/[NSZF041]%20Otázka%209.3%20-%20Ohyb%20světla.pdf)
+- [9.4 Šíření světla v anizotropních látkách](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/9.%20Optika/[NSZF041]%20Otázka%209.4%20-%20Šíření%20světla%20v%20anizotropních%20látkách.pdf)
+- [9.5 Geometrická optika](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/9.%20Optika/[NSZF041]%20Otázka%209.5%20-%20Geometrická%20optika.pdf)
+- [9.6 Optické zobrazovací přístroje](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/9.%20Optika/[NSZF041]%20Otázka%209.6%20-%20Optické%20zobrazovací%20přístroje.pdf)
+- [9.7 Spektrální přístroje a základní metody optické spektroskopie](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/9.%20Optika/[NSZF041]%20Otázka%209.7%20-%20Spektrální%20přístroje%20a%20základní%20metody%20optické%20spektroskopie.pdf)
+- [9.8 Základy holografie](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/9.%20Optika/[NSZF041]%20Otázka%209.8%20-%20Základy%20holografie.pdf)
+- [9.9 Princip laseru](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/9.%20Optika/[NSZF041]%20Otázka%209.9%20-%20Princip%20laseru.pdf)
+- [9.10 Tepelné záření, zákony záření absolutně černého tělesa](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/9.%20Optika/[NSZF041]%20Otázka%209.10%20-%20Tepelné%20záření,%20zákony%20záření%20absolutně%20černého%20tělesa.pdf)
+
+#### 10. Struktura atomů, molekul a kondenzovaných látek
+- [10.1 Vlnově-korpuskulární dualismus, fotoefekt, Comptonův rozptyl](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/10.%20Struktura%20atomů,%20molekul%20a%20kondenzovaných%20látek/[NSZF041]%20Otázka%2010.1%20-%20Vlnově-korpuskulární%20dualismus,%20fotoefekt,%20Comptonův%20rozptyl.pdf)
+- [10.2 Bohrův model atomu, základní vlastnosti atomů](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/10.%20Struktura%20atomů,%20molekul%20a%20kondenzovaných%20látek/[NSZF041]%20Otázka%2010.2%20-%20Bohrův%20model%20atomu,%20základní%20vlastnosti%20atomů.pdf)
+- [10.3 Chemická vazba, mezimolekulární interakce](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/10.%20Struktura%20atomů,%20molekul%20a%20kondenzovaných%20látek/[NSZF041]%20Otázka%2010.3%20-%20Chemická%20vazba,%20mezimolekulární%20interakce.pdf)
+- [10.4 Atomové orbitaly, LCAO](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/10.%20Struktura%20atomů,%20molekul%20a%20kondenzovaných%20látek/[NSZF041]%20Otázka%2010.4%20-%20Atomové%20orbitaly,%20LCAO.pdf)
+- [10.5 Krystalová struktura](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/10.%20Struktura%20atomů,%20molekul%20a%20kondenzovaných%20látek/[NSZF041]%20Otázka%2010.5%20-%20Krystalová%20struktura.pdf)
+- [10.6 Symetrie, kvazikrystaly](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/10.%20Struktura%20atomů,%20molekul%20a%20kondenzovaných%20látek/[NSZF041]%20Otázka%2010.6%20-%20Symetrie,%20kvazikrystaly.pdf)
+- [10.7 Experimentální metody studia krystalové struktury](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/10.%20Struktura%20atomů,%20molekul%20a%20kondenzovaných%20látek/[NSZF041]%20Otázka%2010.7%20-%20Experimentální%20metody%20studia%20krystalové%20struktury.pdf)
+- [10.8 Tepelné vibrace](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/10.%20Struktura%20atomů,%20molekul%20a%20kondenzovaných%20látek/[NSZF041]%20Otázka%2010.8%20-%20Tepelné%20vibrace.pdf)
+- [10.9 Elektronová pásová struktura](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/10.%20Struktura%20atomů,%20molekul%20a%20kondenzovaných%20látek/[NSZF041]%20Otázka%2010.9%20-%20Elektronová%20pásová%20struktura.pdf)
+
+#### 11. Formalismus kvantové teorie
+- [11.1 Popis stavů kvantového systému](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/11.%20Formalismus%20kvantové%20teorie/[NSZF041]%20Otázka%2011.1%20-%20Popis%20stavů%20kvantového%20systému.pdf)
+- [11.2 Reprezentace fyzikálních veličin, diskrétní a spojité spektrum, stacionární Schrödingerova rovnice](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/11.%20Formalismus%20kvantové%20teorie/[NSZF041]%20Otázka%2011.2%20-%20Reprezentace%20fyzikálních%20veličin,%20diskrétní%20a%20spojité%20spektrum,%20stacionární%20Schrödingerova%20rovnice.pdf)
+- [11.3 Souřadnicová, impulsová a maticová formulace kvantové mechaniky](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/11.%20Formalismus%20kvantové%20teorie/[NSZF041]%20Otázka%2011.3%20-%20Souřadnicová,%20impulsová%20a%20maticová%20formulace%20kvantové%20mechaniky.pdf)
+- [11.4 Variační metoda a stacionární poruchová metoda hledání vázaných stavů](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/11.%20Formalismus%20kvantové%20teorie/[NSZF041]%20Otázka%2011.4%20-%20Variační%20metoda%20a%20stacionární%20poruchová%20metoda%20hledání%20vázaných%20stavů.pdf)
+
+#### 12. Kvantová dynamika
+- [12.1 Nestacionární Schrödingerova rovnice, rovnice kontinuity, Ehrenfestovy rovnice](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/12.%20Kvantová%20dynamika/[NSZF041]%20Otázka%2012.1%20-%20Nestacionární%20Schrödingerova%20rovnice,%20rovnice%20kontinuity,%20Ehrenfestovy%20rovnice.pdf)
+- [12.2 Evoluce obecného kvantového systému, kvantové měření](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/12.%20Kvantová%20dynamika/[NSZF041]%20Otázka%2012.2%20-%20Evoluce%20obecného%20kvantového%20systému,%20kvantové%20měření.pdf)
+- [12.3 Integrály pohybu, kvantová čísla, symetrie v kvantové mechanice](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/12.%20Kvantová%20dynamika/[NSZF041]%20Otázka%2012.3%20-%20Integrály%20pohybu,%20kvantová%20čísla,%20symetrie%20v%20kvantové%20mechanice.pdf)
+
+#### 13. Jednoduché kvantové systémy
+- [13.1 Kvantování energie pro vázanou částici](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/13.%20Jednoduché%20kvantové%20systémy/[NSZF041]%20Otázka%2013.1%20-%20Kvantování%20energie%20pro%20vázanou%20částici.pdf)
+- [13.2 Volná částice, vlnové balíky, průchod částice potenciálovou bariérou](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/13.%20Jednoduché%20kvantové%20systémy/[NSZF041]%20Otázka%2013.2%20-%20Volná%20částice,%20vlnové%20balíky,%20průchod%20částice%20potenciálovou%20bariérou.pdf)
+- [13.3 Orbitální a spinový moment hybnosti](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/13.%20Jednoduché%20kvantové%20systémy/[NSZF041]%20Otázka%2013.3%20-%20Orbitální%20a%20spinový%20moment%20hybnosti.pdf)
+- [13.4 Částice ve sféricky symetrickém potenciálu, atom vodíku](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/13.%20Jednoduché%20kvantové%20systémy/[NSZF041]%20Otázka%2013.4%20-%20Částice%20ve%20sféricky%20symetrickém%20potenciálu,%20atom%20vodíku.pdf)
+- [13.5 Částice v elektromagnetickém poli](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/13.%20Jednoduché%20kvantové%20systémy/[NSZF041]%20Otázka%2013.5%20-%20Částice%20v%20elektromagnetickém%20poli.pdf)
+- [13.6 Systémy s více částicemi](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/13.%20Jednoduché%20kvantové%20systémy/[NSZF041]%20Otázka%2013.6%20-%20Systémy%20s%20více%20částicemi.pdf)
+
+#### 14. Jaderné záření
+- [14.1 Interakce jaderného záření s látkou](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/14.%20Jaderné%20záření/[NSZF041]%20Otázka%2014.1%20-%20Interakce%20jaderného%20záření%20s%20látkou.pdf)
+- [14.2 Detekce a spektroskopie jaderného záření](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/14.%20Jaderné%20záření/[NSZF041]%20Otázka%2014.2%20-%20Detekce%20a%20spektroskopie%20jaderného%20záření.pdf)
+- [14.3 Využití jaderného záření](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/14.%20Jaderné%20záření/[NSZF041]%20Otázka%2014.3%20-%20Využití%20jaderného%20záření.pdf)
+
+#### 15. Atomové jádro
+- [15.1 Základní vlastnosti a charakteristiky jádra](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/15.%20Atomové%20jádro/[NSZF041]%20Otázka%2015.1%20-%20Základní%20vlastnosti%20a%20charakteristiky%20jádra.pdf)
+- [15.2 Jaderné síly, vazbová energie jádra](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/15.%20Atomové%20jádro/[NSZF041]%20Otázka%2015.2%20-%20Jaderné%20síly,%20vazbová%20energie%20jádra.pdf)
+- [15.3 Radioaktivita, jaderné reakce](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/15.%20Atomové%20jádro/[NSZF041]%20Otázka%2015.3%20-%20Radioaktivita,%20jaderné%20reakce.pdf)
+- [15.4 Jaderné zdroje energie](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/15.%20Atomové%20jádro/[NSZF041]%20Otázka%2015.4%20-%20Jaderné%20zdroje%20energie.pdf)
+
+#### 16. Částicová fyzika
+- [16.1 Fundamentální částice](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/16.%20Částicová%20fyzika/[NSZF041]%20Otázka%2016.1%20-%20Fundamentální%20částice.pdf)
+- [16.2 Hadrony](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/16.%20Částicová%20fyzika/[NSZF041]%20Otázka%2016.2%20-%20Hadrony.pdf)
+- [16.3 Základní interakce mezi částicemi, zákony zachování](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/16.%20Částicová%20fyzika/[NSZF041]%20Otázka%2016.3%20-%20Základní%20interakce%20mezi%20částicemi,%20zákony%20zachování.pdf)
+- [16.4 Částicové experimenty](BcFyzika/[NSZF041]%20Obecná%20fyzika/Poznamky/16.%20Částicová%20fyzika/[NSZF041]%20Otázka%2016.4%20-%20Částicové%20experimenty.pdf)
 
 ---
 
