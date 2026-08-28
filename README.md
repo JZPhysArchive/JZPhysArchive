@@ -789,7 +789,6 @@ Ručně psané zpracování zkouškových otázek.
 ## [NSZF041] Obecná fyzika
 
 **Letní semestr 2023/2024**  
-**Komise:** předsedaná prof. Malým  
 ### Poznámky
 Ručně psané zpracování státnicových otázek.
 
