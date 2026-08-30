@@ -18,6 +18,7 @@ Materiály by měly být využity výhradně jako inspirace a studijní opora, *
 
 ### 🎓 Státní závěrečné zkoušky
 - [[NSZF041] Obecná fyzika](#nszf041-obecná-fyzika)
+- [[NSZF104] Teoretická fyzika](#nszf104-teoretická-fyzika)
 
 ### 🎓 Bc. Fyzika
 
@@ -1134,6 +1135,83 @@ Spočítané domácí úkoly z cvičení.
 - [Jupyter Notebook k úkolu 1](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Ukoly/[NTMF044]%20Úkol%201%20-%20montecarlo.ipynb)
 - [Domácí úkol 2](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Ukoly/[NTMF044]%20Úkol%202.pdf)
 - [Domácí úkol 3](MgrTeoretickaFyzika/[NTMF044]%20Termodynamika%20a%20statistická%20fyzika%20II/Ukoly/[NTMF044]%20Úkol%203.pdf)
+
+
+---
+
+## [NSZF104] Teoretická fyzika
+
+**Letní semestr 2025/2026**  
+
+### Poznámky
+Ručně psané zpracování státnicových otázek.
+
+### A. Společné požadavky
+
+#### 1. Relativistická fyzika
+- [A1.1 Výchozí principy speciální a obecné teorie relativity](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/1.%20Relativistická%20fyzika/[NSZF104]%20Otázka%20A1.1%20-%20Výchozí%20principy%20speciální%20a%20obecné%20teorie%20relativity.pdf)
+- [A1.2 Prostoročas, čtyřrozměrný formalismus, transformace souřadnic](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/1.%20Relativistická%20fyzika/[NSZF104]%20Otázka%20A1.2%20-%20Prostoročas,%20čtyřrozměrný%20formalismus,%20transformace%20souřadnic.pdf)
+- [A1.3 Paralelní přenos a rovnice geodetiky, metrika a afinní konexe, kovariantní derivace](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/1.%20Relativistická%20fyzika/[NSZF104]%20Otázka%20A1.3%20-%20Paralelní%20přenos%20a%20rovnice%20geodetiky,%20metrika%20a%20afinní%20konexe,%20kovariantní%20derivace.pdf)
+- [A1.4 Posun frekvence v gravitačním poli](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/1.%20Relativistická%20fyzika/[NSZF104]%20Otázka%20A1.4%20-%20Posun%20frekvence%20v%20gravitačním%20poli.pdf)
+- [A1.5 Křivost prostoročasu](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/1.%20Relativistická%20fyzika/[NSZF104]%20Otázka%20A1.5%20-%20Křivost%20prostoročasu.pdf)
+- [A1.6 Tenzor energie a hybnosti, zákony zachování a pohybové rovnice](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/1.%20Relativistická%20fyzika/[NSZF104]%20Otázka%20A1.6%20-%20Tenzor%20energie%20a%20hybnosti,%20zákony%20zachování%20a%20pohybové%20rovnice.pdf)
+- [A1.7 Einsteinovy rovnice gravitačního pole](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/1.%20Relativistická%20fyzika/[NSZF104]%20Otázka%20A1.7%20-%20Einsteinovy%20rovnice%20gravitačního%20pole.pdf)
+- [A1.8 Schwarzschildovo řešení Einsteinových rovnic](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/1.%20Relativistická%20fyzika/[NSZF104]%20Otázka%20A1.8%20-%20Schwarzschildovo%20řešení%20Einsteinových%20rovnic.pdf)
+- [A1.9 Homogenní a izotropní kosmologické modely](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/1.%20Relativistická%20fyzika/[NSZF104]%20Otázka%20A1.9%20-%20Homogenní%20a%20izotropní%20kosmologické%20modely.pdf)
+
+#### 2. Kvantová fyzika
+- [A2.10 Rovnice relativistické kvantové mechaniky pro částice se spinem 0, 1/2 a 1](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/2.%20Kvantová%20fyzika/[NSZF104]%20Otázka%20A2.10%20-%20Rovnice%20relativistické%20kvantové%20mechaniky%20pro%20částice%20se%20spinem%200,%201-2%20a%201.pdf)
+- [A2.11 Diracova rovnice pro částici v elektromagnetickém poli](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/2.%20Kvantová%20fyzika/[NSZF104]%20Otázka%20A2.11%20-%20Diracova%20rovnice%20pro%20částici%20v%20elektromagnetickém%20poli.pdf)
+- [A2.12 Kvantování volných polí a jejich částicová interpretace](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/2.%20Kvantová%20fyzika/[NSZF104]%20Otázka%20A2.12%20-%20Kvantování%20volných%20polí%20a%20jejich%20částicová%20interpretace.pdf)
+- [A2.13 Interakce polí, příklady interakčních lagrangiánů](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/2.%20Kvantová%20fyzika/[NSZF104]%20Otázka%20A2.13%20-%20Interakce%20polí,%20příklady%20interakčních%20lagrangiánů.pdf)
+- [A2.14 S-matice a jednoduché Feynmanovy diagramy](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/2.%20Kvantová%20fyzika/[NSZF104]%20Otázka%20A2.14%20-%20S-matice%20a%20jednoduché%20Feynmanovy%20diagramy.pdf)
+- [A2.15 Výpočet pravděpodobnosti rozpadu a účinného průřezu reakce](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/2.%20Kvantová%20fyzika/[NSZF104]%20Otázka%20A2.15%20-%20Výpočet%20pravděpodobnosti%20rozpadu%20a%20účinného%20průřezu%20reakce.pdf)
+
+
+#### 3. Statistická fyzika
+- [A3.1 Statistický popis termodynamiky](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/3.%20Statistická%20fyzika/[NSZF104]%20Otázka%20A3.1%20-%20Statistický%20popis%20termodynamiky.pdf)
+- [A3.2 Základní statistické soubory](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/3.%20Statistická%20fyzika/[NSZF104]%20Otázka%20A3.2%20-%20Základní%20statistické%20soubory.pdf)
+- [A3.3 Fluktuace termodynamických veličin](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/3.%20Statistická%20fyzika/[NSZF104]%20Otázka%20A3.3%20-%20Fluktuace%20termodynamických%20veličin.pdf)
+- [A3.4 Kvantová statistická mechanika](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/3.%20Statistická%20fyzika/[NSZF104]%20Otázka%20A3.4%20-%20Kvantová%20statistická%20mechanika.pdf)
+- [A3.5 Ideální Boseho-Einsteinův plyn hmotných částic](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/3.%20Statistická%20fyzika/[NSZF104]%20Otázka%20A3.5%20-%20Ideální%20Boseho-Einsteinův%20plyn%20hmotných%20částic.pdf)
+- [A3.6 Plyn nehmotných bosonů](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/3.%20Statistická%20fyzika/[NSZF104]%20Otázka%20A3.6%20-%20Plyn%20nehmotných%20bosonů.pdf)
+- [A3.7 Degenerovaný elektronový plyn](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/3.%20Statistická%20fyzika/[NSZF104]%20Otázka%20A3.7%20-%20Degenerovaný%20elektronový%20plyn.pdf)
+- [A3.8 Základy teorie neideálních plynů, základy nerovnovážné statistické fyziky](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/3.%20Statistická%20fyzika/[NSZF104]%20Otázka%20A3.8%20-%20Základy%20teorie%20neideálních%20plynů,%20základy%20nerovnovážné%20statistické%20fyziky.pdf)
+
+#### 4. Fyzika plazmatu a pevných látek
+- [A4.1 Základní pojmy teorie plazmatu](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/4.%20Fyzika%20plazmatu%20a%20pevných%20látek/[NSZF104]%20Otázka%20A4.1%20-%20Základní%20pojmy%20teorie%20plazmatu.pdf)
+- [A4.2 Drifty plazmatu v elektrickém a magnetickém poli, adiabatické invarianty](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/4.%20Fyzika%20plazmatu%20a%20pevných%20látek/[NSZF104]%20Otázka%20A4.2%20-%20Drifty%20plazmatu%20v%20elektrickém%20a%20magnetickém%20poli,%20adiabatické%20invarianty.pdf)
+- [A4.3 Kinetická teorie plazmatu, Landauův útlum](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/4.%20Fyzika%20plazmatu%20a%20pevných%20látek/[NSZF104]%20Otázka%20A4.3%20-%20Kinetická%20teorie%20plazmatu,%20Landauův%20útlum.pdf)
+- [A4.4 Srážkový člen a relaxace](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/4.%20Fyzika%20plazmatu%20a%20pevných%20látek/[NSZF104]%20Otázka%20A4.4%20-%20Srážkový%20člen%20a%20relaxace.pdf)
+- [A4.5 Magnetohydrodynamický popis plazmatu](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/4.%20Fyzika%20plazmatu%20a%20pevných%20látek/[NSZF104]%20Otázka%20A4.5%20-%20Magnetohydrodynamický%20popis%20plazmatu.pdf)
+- [A4.6 Pevná látka jako kvantově mechanický problém mnoha částic](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/4.%20Fyzika%20plazmatu%20a%20pevných%20látek/[NSZF104]%20Otázka%20A4.6%20-%20Pevná%20látka%20jako%20kvantově%20mechanický%20problém%20mnoha%20částic.pdf)
+- [A4.7 Harmonické přiblížení pohybu atomů](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/4.%20Fyzika%20plazmatu%20a%20pevných%20látek/[NSZF104]%20Otázka%20A4.7%20-%20Harmonické%20přiblížení%20pohybu%20atomů.pdf)
+- [A4.8 Difrakce na mřížce](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/4.%20Fyzika%20plazmatu%20a%20pevných%20látek/[NSZF104]%20Otázka%20A4.8%20-%20Difrakce%20na%20mřížce.pdf)
+- [A4.9 Elektronová pásová struktura, termodynamické vlastnosti krystalů](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/A.%20Společné%20požadavky/4.%20Fyzika%20plazmatu%20a%20pevných%20látek/[NSZF104]%20Otázka%20A4.9%20-%20Elektronová%20pásová%20struktura,%20termodynamické%20vlastnosti%20krystalů.pdf)
+
+
+### B. Volitelné okruhy
+
+#### 4. Pokročilá kvantová mechanika
+- [B4.1 Základy kvantové teorie rozptylu částice na vnějším potenciálu](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/4.%20Pokročilá%20kvantová%20mechanika/[NSZF104]%20Otázka%20B4.1%20-%20Základy%20kvantové%20teorie%20rozptylu%20částice%20na%20vnějším%20potenciálu.pdf)
+- [B4.2 Rozptyl na sféricky symetrickém potenciálu a analytické vlastnosti rozptylových veličin](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/4.%20Pokročilá%20kvantová%20mechanika/[NSZF104]%20Otázka%20B4.2%20-%20Rozptyl%20na%20sféricky%20symetrickém%20potenciálu%20a%20analytické%20vlastnosti%20rozptylových%20veličin.pdf)
+- [B4.4 Přibližné metody pro vícečásticové systémy](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/4.%20Pokročilá%20kvantová%20mechanika/[NSZF104]%20Otázka%20B4.4%20-%20Přibližné%20metody%20pro%20vícečásticové%20systémy.pdf)
+- [B4.5 Struktura atomů a molekul](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/4.%20Pokročilá%20kvantová%20mechanika/[NSZF104]%20Otázka%20B4.5%20-%20Struktura%20atomů%20a%20molekul.pdf)
+- [B4.6 Přibližné metody teorie rozptylu a jejich aplikace](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/4.%20Pokročilá%20kvantová%20mechanika/[NSZF104]%20Otázka%20B4.6%20-%20Přibližné%20metody%20teorie%20rozptylu%20a%20jejich%20aplikace.pdf)
+- [B4.7 Dekoherence a efektivní redukce](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/4.%20Pokročilá%20kvantová%20mechanika/[NSZF104]%20Otázka%20B4.7%20-%20Dekoherence%20a%20efektivní%20redukce.pdf)
+- [B4.8 Kvantová mechanika a teorie skrytých proměnných](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/4.%20Pokročilá%20kvantová%20mechanika/[NSZF104]%20Otázka%20B4.8%20-%20Kvantová%20mechanika%20a%20teorie%20skrytých%20proměnných.pdf)
+- [B4.9 Feynmanovská formulace kvantové mechaniky](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/4.%20Pokročilá%20kvantová%20mechanika/[NSZF104]%20Otázka%20B4.9%20-%20Feynmanovská%20formulace%20kvantové%20mechaniky.pdf)
+
+#### 8. Pokročilé numerické metody a počítačová fyzika
+- [B8.1 Faktorizace matic a jejich využití v numerické lineární algebře](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/8.%20Pokročilé%20numerické%20metody%20a%20počítačová%20fyzika/[NSZF104]%20Otázka%20B8.1%20-%20Faktorizace%20matic%20a%20jejich%20využití%20v%20numerické%20lineární%20algebře.pdf)
+- [B8.2 Iterační metody numerické lineární algebry](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/8.%20Pokročilé%20numerické%20metody%20a%20počítačová%20fyzika/[NSZF104]%20Otázka%20B8.2%20-%20Iterační%20metody%20numerické%20lineární%20algebry.pdf)
+- [B8.3 Integrace obyčejných diferenciálních rovnic](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/8.%20Pokročilé%20numerické%20metody%20a%20počítačová%20fyzika/[NSZF104]%20Otázka%20B8.3%20-%20Integrace%20obyčejných%20diferenciálních%20rovnic.pdf)
+- [B8.4 Metoda konečných diferencí pro parciální diferenciální rovnice](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/8.%20Pokročilé%20numerické%20metody%20a%20počítačová%20fyzika/[NSZF104]%20Otázka%20B8.4%20-%20Metoda%20konečných%20diferencí%20pro%20parciální%20diferenciální%20rovnice.pdf)
+- [B8.5 Metoda konečných prvků pro okrajové úlohy](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/8.%20Pokročilé%20numerické%20metody%20a%20počítačová%20fyzika/[NSZF104]%20Otázka%20B8.5%20-%20Metoda%20konečných%20prvků%20pro%20okrajové%20úlohy.pdf)
+- [B8.6 Diskrétní Fourierova transformace a její využití](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/8.%20Pokročilé%20numerické%20metody%20a%20počítačová%20fyzika/[NSZF104]%20Otázka%20B8.6%20-%20Diskrétní%20Fourierova%20transformace%20a%20její%20využití.pdf)
+- [B8.7 Základy metody Monte Carlo](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/8.%20Pokročilé%20numerické%20metody%20a%20počítačová%20fyzika/[NSZF104]%20Otázka%20B8.7%20-%20Základy%20metody%20Monte%20Carlo.pdf)
+- [B8.8 Základy metody molekulární dynamiky](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/8.%20Pokročilé%20numerické%20metody%20a%20počítačová%20fyzika/[NSZF104]%20Otázka%20B8.8%20-%20Základy%20metody%20molekulární%20dynamiky.pdf)
+- [B8.9 Základy kvantových simulací](MgrTeoretickaFyzika/[NSZF104]%20Teoretická%20fyzika/Poznamky/B.%20Volitelné%20okruhy/8.%20Pokročilé%20numerické%20metody%20a%20počítačová%20fyzika/[NSZF104]%20Otázka%20B8.9%20-%20Základy%20kvantových%20simulací.pdf)
 
 <!-- COURSES:END -->
 
