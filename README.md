@@ -4,6 +4,8 @@ Osobní archiv poznámek, úkolů a materiálů z bakalářského a magisterské
 
 **Autor:** JZ
 
+> 🌐 **Prohlížejte si materiály v přehledné webové galerii:** [jzphysarchive.github.io](https://jzphysarchive.github.io/)
+
 ---
 
 ### ⚠️ Disclaimer
